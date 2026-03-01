@@ -1,0 +1,134 @@
+import type { Metadata } from "next";
+import "./globals.css";
+
+export const metadata: Metadata = {
+  metadataBase: new URL("https://groomgrid.com"),
+  title: {
+    default: "GroomGrid — AI-Powered Pet Grooming Business Software",
+    template: "%s | GroomGrid",
+  },
+  description:
+    "GroomGrid is the AI-powered business management platform built for pet groomers. Smart scheduling, breed detection AI, automated rebooking, and payment processing — all in one place.",
+  keywords: [
+    "pet grooming software",
+    "grooming business management",
+    "pet groomer scheduling app",
+    "AI pet grooming",
+    "dog grooming software",
+    "grooming salon management",
+    "pet groomer CRM",
+    "grooming appointment software",
+  ],
+  authors: [{ name: "GroomGrid", url: "https://groomgrid.com" }],
+  creator: "GroomGrid",
+  publisher: "GroomGrid",
+  openGraph: {
+    type: "website",
+    locale: "en_US",
+    url: "https://groomgrid.com",
+    siteName: "GroomGrid",
+    title: "GroomGrid — AI-Powered Pet Grooming Business Software",
+    description:
+      "The smartest way to run your grooming business. AI breed detection, smart rebooking, and automated client notes — built for groomers who love dogs, not spreadsheets.",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "GroomGrid — AI-Powered Pet Grooming Software",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "GroomGrid — AI-Powered Pet Grooming Business Software",
+    description:
+      "AI breed detection, smart scheduling, automated notes. Built for groomers who love dogs, not spreadsheets.",
+    images: ["/og-image.png"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
+  alternates: {
+    canonical: "https://groomgrid.com",
+  },
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="en">
+      <head>
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="#0d9488" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "SoftwareApplication",
+              name: "GroomGrid",
+              description:
+                "AI-powered business management platform for pet groomers",
+              url: "https://groomgrid.com",
+              applicationCategory: "BusinessApplication",
+              operatingSystem: "Web",
+              offers: [
+                {
+                  "@type": "Offer",
+                  name: "Solo Plan",
+                  price: "29",
+                  priceCurrency: "USD",
+                  priceSpecification: {
+                    "@type": "UnitPriceSpecification",
+                    billingDuration: "P1M",
+                  },
+                },
+                {
+                  "@type": "Offer",
+                  name: "Salon Plan",
+                  price: "79",
+                  priceCurrency: "USD",
+                  priceSpecification: {
+                    "@type": "UnitPriceSpecification",
+                    billingDuration: "P1M",
+                  },
+                },
+                {
+                  "@type": "Offer",
+                  name: "Enterprise Plan",
+                  price: "149",
+                  priceCurrency: "USD",
+                  priceSpecification: {
+                    "@type": "UnitPriceSpecification",
+                    billingDuration: "P1M",
+                  },
+                },
+              ],
+              aggregateRating: {
+                "@type": "AggregateRating",
+                ratingValue: "4.9",
+                ratingCount: "47",
+              },
+            }),
+          }}
+        />
+      </head>
+      <body>{children}</body>
+    </html>
+  );
+}
