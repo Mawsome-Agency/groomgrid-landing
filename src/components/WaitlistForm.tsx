@@ -178,7 +178,7 @@ export default function WaitlistForm() {
                 { icon: "✓", text: "14-day free trial" },
                 { icon: "✕", text: "No credit card" },
               ].map((s) => (
-                <div key={s.text} className="flex items-center gap-1.5 text-xs text-teal-200">
+                <div key={s.text} className="flex items-center gap-1.5 text-xs text-white/90">
                   <span>{s.icon}</span>
                   <span>{s.text}</span>
                 </div>

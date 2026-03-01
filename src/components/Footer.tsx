@@ -22,7 +22,7 @@ export default function Footer() {
                 Groom<span className="text-teal-400">Grid</span>
               </span>
             </div>
-            <p className="text-sm leading-relaxed text-gray-500 max-w-sm mb-6">
+            <p className="text-sm leading-relaxed text-gray-400 max-w-sm mb-6">
               AI-powered business management for pet groomers. Scheduling,
               CRM, breed detection, and payments — all in one place. Built
               for groomers who love dogs, not spreadsheets.
@@ -113,7 +113,7 @@ export default function Footer() {
         </div>
 
         {/* Bottom bar */}
-        <div className="border-t border-gray-800 py-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-600">
+        <div className="border-t border-gray-800 py-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-400">
           <p>© {currentYear} GroomGrid. All rights reserved.</p>
           <p className="flex items-center gap-1">
             Made with{" "}
