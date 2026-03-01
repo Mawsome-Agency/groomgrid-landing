@@ -101,7 +101,7 @@ export default function Pricing() {
             >
               {/* Popular badge */}
               {plan.badge && (
-                <div className="absolute -top-4 left-1/2 -translate-x-1/2 px-4 py-1.5 bg-teal-600 text-white text-xs font-bold rounded-full shadow-lg">
+                <div className="absolute -top-4 left-1/2 -translate-x-1/2 px-4 py-1.5 bg-teal-700 text-white text-xs font-bold rounded-full shadow-lg">
                   {plan.badge}
                 </div>
               )}
@@ -125,7 +125,7 @@ export default function Pricing() {
                 href="#waitlist"
                 className={`block w-full text-center py-3 rounded-xl font-semibold text-sm mb-8 transition-all ${
                   plan.color === "teal"
-                    ? "bg-teal-600 text-white hover:bg-teal-700 shadow-lg hover:shadow-xl"
+                    ? "bg-teal-700 text-white hover:bg-teal-800 shadow-lg hover:shadow-xl"
                     : "bg-gray-900 text-white hover:bg-gray-800"
                 }`}
               >

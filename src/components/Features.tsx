@@ -58,7 +58,7 @@ const features = [
 const badgeStyles: Record<string, string> = {
   teal: "bg-teal-100 text-teal-700",
   coral: "bg-coral-100 text-coral-700",
-  sand: "bg-sand-100 text-sand-700",
+  sand: "bg-sand-100 text-sand-800",
   green: "bg-green-100 text-green-700",
 };
 

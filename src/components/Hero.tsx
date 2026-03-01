@@ -161,7 +161,7 @@ export default function Hero() {
                           ? "bg-gray-100 text-gray-600"
                           : apt.status === "In progress"
                           ? "bg-teal-100 text-teal-700"
-                          : "bg-sand-100 text-sand-700"
+                          : "bg-sand-100 text-sand-800"
                       }`}
                     >
                       {apt.status}
