@@ -98,9 +98,7 @@ export default function Features() {
                     {feature.icon}
                   </div>
                   <span
-                    className={`text-xs font-semibold px-2.5 py-1 rounded-full ${
-                      badgeStyles[feature.badgeColor] || badgeStyles.teal
-                    }`}
+                    className={`text-xs font-semibold px-2.5 py-1 rounded-full ${badgeStyles[feature.badgeColor]}`}
                   >
                     {feature.badge}
                   </span>

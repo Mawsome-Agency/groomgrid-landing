@@ -120,14 +120,15 @@ export default function WaitlistForm() {
 
             {/* Business type */}
             <div>
-              <label className="block text-sm font-semibold text-gray-700 mb-1.5">
+              <p id="business-type-label" className="block text-sm font-semibold text-gray-700 mb-1.5">
                 What describes you best?
-              </label>
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              </p>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3" role="group" aria-labelledby="business-type-label">
                 {businessTypes.map((type) => (
                   <button
                     key={type.value}
                     type="button"
+                    aria-pressed={businessType === type.value}
                     onClick={() => setBusinessType(type.value)}
                     className={`px-4 py-3 rounded-xl border-2 text-sm font-medium text-left transition-all ${
                       businessType === type.value

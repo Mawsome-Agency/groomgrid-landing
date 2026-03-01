@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 const stats = [
   { value: "4x", label: "More rebookings" },
   { value: "90%", label: "Fewer no-shows" },
