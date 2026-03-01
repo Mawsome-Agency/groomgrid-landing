@@ -99,7 +99,7 @@ export default function Hero() {
                 <div className="w-3 h-3 rounded-full bg-yellow-400" />
                 <div className="w-3 h-3 rounded-full bg-green-400" />
               </div>
-              <div className="flex-1 bg-white rounded-md px-3 py-1 text-xs text-gray-400 text-center">
+              <div className="flex-1 bg-white rounded-md px-3 py-1 text-xs text-gray-500 text-center">
                 app.groomgrid.com/dashboard
               </div>
             </div>
@@ -141,7 +141,7 @@ export default function Hero() {
                     key={apt.time}
                     className="px-4 py-3 border-b border-gray-50 flex items-center gap-4 last:border-0"
                   >
-                    <div className="text-xs font-mono text-gray-400 w-20 shrink-0">
+                    <div className="text-xs font-mono text-gray-500 w-20 shrink-0">
                       {apt.time}
                     </div>
                     <div className="flex-1 min-w-0">
