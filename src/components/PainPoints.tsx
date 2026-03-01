@@ -35,7 +35,7 @@ export default function PainPoints() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section header */}
         <div className="text-center mb-16">
-          <div className="inline-block px-4 py-1.5 rounded-full bg-coral-50 border border-coral-200 text-coral-600 text-sm font-medium mb-4">
+          <div className="inline-block px-4 py-1.5 rounded-full bg-coral-50 border border-coral-200 text-coral-700 text-sm font-medium mb-4">
             The Old Way vs. GroomGrid
           </div>
           <h2 className="font-display text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">
