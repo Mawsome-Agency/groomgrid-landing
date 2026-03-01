@@ -67,7 +67,7 @@ export default function Footer() {
 
           {/* Product links */}
           <div>
-            <h4 className="text-white font-semibold text-sm mb-4">Product</h4>
+            <h3 className="text-white font-semibold text-sm mb-4">Product</h3>
             <ul className="space-y-3 text-sm">
               {[
                 { label: "Features", href: "#features" },
@@ -90,7 +90,7 @@ export default function Footer() {
 
           {/* Company links */}
           <div>
-            <h4 className="text-white font-semibold text-sm mb-4">Company</h4>
+            <h3 className="text-white font-semibold text-sm mb-4">Company</h3>
             <ul className="space-y-3 text-sm">
               {[
                 { label: "About", href: "#" },
