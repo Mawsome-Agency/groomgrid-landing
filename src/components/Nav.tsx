@@ -57,7 +57,7 @@ export default function Nav() {
             </a>
             <a
               href="#waitlist"
-              className="inline-flex items-center px-4 py-2 rounded-lg bg-teal-600 text-white text-sm font-semibold hover:bg-teal-700 transition-colors shadow-sm"
+              className="inline-flex items-center px-4 py-2 rounded-lg bg-teal-700 text-white text-sm font-semibold hover:bg-teal-800 transition-colors shadow-sm"
             >
               Join Waitlist
             </a>
@@ -114,7 +114,7 @@ export default function Nav() {
             <div className="px-4">
               <a
                 href="#waitlist"
-                className="block text-center px-4 py-2 rounded-lg bg-teal-600 text-white text-sm font-semibold hover:bg-teal-700 transition-colors"
+                className="block text-center px-4 py-2 rounded-lg bg-teal-700 text-white text-sm font-semibold hover:bg-teal-800 transition-colors"
                 onClick={() => setMenuOpen(false)}
               >
                 Join Waitlist

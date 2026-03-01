@@ -148,7 +148,7 @@ export default function Features() {
           </p>
           <a
             href="#waitlist"
-            className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-teal-600 text-white font-semibold text-lg hover:bg-teal-700 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
+            className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-teal-700 text-white font-semibold text-lg hover:bg-teal-800 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
           >
             Get early access — it&apos;s free
             <svg

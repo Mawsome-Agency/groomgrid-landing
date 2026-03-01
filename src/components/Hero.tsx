@@ -39,7 +39,7 @@ export default function Hero() {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
             <a
               href="#waitlist"
-              className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-teal-600 text-white font-semibold text-lg hover:bg-teal-700 active:bg-teal-800 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
+              className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-teal-700 text-white font-semibold text-lg hover:bg-teal-800 active:bg-teal-900 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
             >
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
