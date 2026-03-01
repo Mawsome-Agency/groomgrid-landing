@@ -153,7 +153,7 @@ export default function Pricing() {
                   </li>
                 ))}
                 {plan.notIncluded.map((f) => (
-                  <li key={f} className="flex items-center gap-2.5 text-sm text-gray-400">
+                  <li key={f} className="flex items-center gap-2.5 text-sm text-gray-500">
                     <svg
                       className="w-4 h-4 text-gray-300 shrink-0"
                       fill="none"
@@ -193,7 +193,7 @@ export default function Pricing() {
               },
             ].map((faq) => (
               <div key={faq.q}>
-                <h4 className="font-semibold text-gray-900 mb-2">{faq.q}</h4>
+                <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
                 <p className="text-sm text-gray-600">{faq.a}</p>
               </div>
             ))}
