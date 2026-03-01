@@ -62,6 +62,9 @@ export const metadata: Metadata = {
   },
 };
 
+const FONT_URL =
+  "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -73,23 +76,15 @@ export default function RootLayout({
         {/* Non-render-blocking font loading */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link
-          rel="preload"
-          as="style"
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap"
-        />
-        <link
-          rel="stylesheet"
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap"
-          media="print"
-          // @ts-ignore
-          onLoad="this.media='all'"
+        <link rel="preload" as="style" href={FONT_URL} />
+        <link rel="stylesheet" href={FONT_URL} media="print" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var l=document.querySelector('link[media="print"][href*="fonts.googleapis.com"]');if(l)l.onload=function(){l.media='all'}})();`,
+          }}
         />
         <noscript>
-          <link
-            rel="stylesheet"
-            href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap"
-          />
+          <link rel="stylesheet" href={FONT_URL} />
         </noscript>
         <link rel="icon" href="/icon.svg" type="image/svg+xml" />
         <link rel="manifest" href="/manifest.json" />
