@@ -69,7 +69,7 @@ export default function PainPoints() {
                     </span>
                     <div className="flex-1 h-px bg-red-100" />
                   </div>
-                  <p className="text-gray-400 line-through text-sm">{item.before}</p>
+                  <p className="text-gray-500 line-through text-sm">{item.before}</p>
 
                   <div className="flex items-center gap-2 mt-2">
                     <span className="text-xs font-bold text-teal-600 uppercase tracking-wide">
