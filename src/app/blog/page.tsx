@@ -7,11 +7,11 @@ export const metadata: Metadata = {
   description:
     "Expert guides for pet groomers: business management, software reviews, pricing strategies, breed grooming guides, and more.",
   alternates: {
-    canonical: "https://groomgrid.com/blog",
+    canonical: "https://getgroomgrid.com/blog",
   },
   openGraph: {
     type: "website",
-    url: "https://groomgrid.com/blog",
+    url: "https://getgroomgrid.com/blog",
     title: "GroomGrid Blog — Pet Grooming Business Tips & Guides",
     description:
       "Expert guides for pet groomers: business management, software reviews, pricing strategies, breed grooming guides, and more.",

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://groomgrid.com"),
+  metadataBase: new URL("https://getgroomgrid.com"),
   title: {
     default: "GroomGrid — AI-Powered Pet Grooming Business Software",
     template: "%s | GroomGrid",
@@ -19,13 +19,13 @@ export const metadata: Metadata = {
     "pet groomer CRM",
     "grooming appointment software",
   ],
-  authors: [{ name: "GroomGrid", url: "https://groomgrid.com" }],
+  authors: [{ name: "GroomGrid", url: "https://getgroomgrid.com" }],
   creator: "GroomGrid",
   publisher: "GroomGrid",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://groomgrid.com",
+    url: "https://getgroomgrid.com",
     siteName: "GroomGrid",
     title: "GroomGrid — AI-Powered Pet Grooming Business Software",
     description:
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://groomgrid.com",
+    canonical: "https://getgroomgrid.com",
   },
 };
 
@@ -98,7 +98,7 @@ export default function RootLayout({
               name: "GroomGrid",
               description:
                 "AI-powered business management platform for pet groomers",
-              url: "https://groomgrid.com",
+              url: "https://getgroomgrid.com",
               applicationCategory: "BusinessApplication",
               operatingSystem: "Web",
               offers: [

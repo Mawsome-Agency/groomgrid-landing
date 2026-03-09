@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://groomgrid.com/sitemap.xml",
+    sitemap: "https://getgroomgrid.com/sitemap.xml",
   };
 }

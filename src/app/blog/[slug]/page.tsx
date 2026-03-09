@@ -15,7 +15,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = getPost(params.slug);
   if (!post) return {};
-  const url = `https://groomgrid.com/blog/${post.slug}`;
+  const url = `https://getgroomgrid.com/blog/${post.slug}`;
   return {
     title: post.title,
     description: post.description,
@@ -39,7 +39,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 function ArticleSchema({ post }: { post: ReturnType<typeof getPost> }) {
   if (!post) return null;
-  const url = `https://groomgrid.com/blog/${post.slug}`;
+  const url = `https://getgroomgrid.com/blog/${post.slug}`;
   const schema = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -51,15 +51,15 @@ function ArticleSchema({ post }: { post: ReturnType<typeof getPost> }) {
     author: {
       "@type": "Organization",
       name: "GroomGrid",
-      url: "https://groomgrid.com",
+      url: "https://getgroomgrid.com",
     },
     publisher: {
       "@type": "Organization",
       name: "GroomGrid",
-      url: "https://groomgrid.com",
+      url: "https://getgroomgrid.com",
       logo: {
         "@type": "ImageObject",
-        url: "https://groomgrid.com/icon.svg",
+        url: "https://getgroomgrid.com/icon.svg",
       },
     },
     mainEntityOfPage: {
