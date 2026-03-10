@@ -94,6 +94,24 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
+              "@type": "Organization",
+              name: "GroomGrid",
+              url: "https://getgroomgrid.com",
+              logo: {
+                "@type": "ImageObject",
+                url: "https://getgroomgrid.com/icon.svg",
+              },
+              description:
+                "AI-powered business management platform for pet groomers",
+              sameAs: [],
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
               "@type": "SoftwareApplication",
               name: "GroomGrid",
               description:

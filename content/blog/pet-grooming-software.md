@@ -291,12 +291,12 @@ If you're ready to move beyond paper and spreadsheets:
 
 ## Related Reading
 
-- [Best Pet Grooming Software in 2026: Compared & Ranked](/pet-grooming-software/reviews/best-pet-grooming-software/)
-- [Free Pet Grooming Software: What's Actually Free vs. What's a Trial](/pet-grooming-software/reviews/free-pet-grooming-software/)
-- [Grooming Appointment Scheduling Software: Buyer's Guide](/grooming-appointment-scheduling-software/)
-- [Dog Grooming Business Management: Complete Operations Guide](/dog-grooming-business-management/)
-- [Mobile Dog Grooming Scheduling Software](/grooming-scheduling-software/mobile-dog-grooming-scheduling-software/)
+- [MoeGo vs. GroomGrid: Full Comparison for 2026](/blog/moego-vs-groomgrid)
+- [DaySmart Pet vs. GroomGrid: Which Is Better for Salons?](/blog/daysmart-pet-vs-groomgrid)
+- [Free Pet Grooming Software: What's Actually Free vs. What's a Trial](/blog/free-pet-grooming-software)
+- [Dog Grooming Business Management: Complete Operations Guide](/blog/dog-grooming-business-management)
+- [AI Pet Grooming Software: How It Works and What It Changes](/blog/ai-pet-grooming-software)
 
 ---
 
-*GroomGrid is an AI-powered pet grooming business management platform built for independent and salon groomers. Currently in early access — [join the waitlist](/waitlist/) to be first in line.*
+*GroomGrid is an AI-powered pet grooming business management platform built for independent and salon groomers. Currently in early access — [join the waitlist](/#waitlist) to be first in line.*

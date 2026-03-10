@@ -4,12 +4,18 @@ import matter from "gray-matter";
 
 const CONTENT_DIR = path.join(process.cwd(), "content/blog");
 
+export interface FaqItem {
+  q: string;
+  a: string;
+}
+
 export interface PostMeta {
   title: string;
   description: string;
   date: string;
   slug: string;
   category: string;
+  faqs?: FaqItem[];
 }
 
 export interface Post extends PostMeta {

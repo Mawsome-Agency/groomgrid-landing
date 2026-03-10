@@ -75,6 +75,63 @@ function ArticleSchema({ post }: { post: ReturnType<typeof getPost> }) {
   );
 }
 
+function BreadcrumbSchema({ post }: { post: ReturnType<typeof getPost> }) {
+  if (!post) return null;
+  const url = `https://getgroomgrid.com/blog/${post.slug}`;
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "GroomGrid",
+        item: "https://getgroomgrid.com",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Blog",
+        item: "https://getgroomgrid.com/blog",
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: post.title,
+        item: url,
+      },
+    ],
+  };
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
+function FaqSchema({ post }: { post: ReturnType<typeof getPost> }) {
+  if (!post?.faqs?.length) return null;
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: post.faqs.map(({ q, a }) => ({
+      "@type": "Question",
+      name: q,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: a,
+      },
+    })),
+  };
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
 const CATEGORY_COLORS: Record<string, string> = {
   "Software Reviews": "bg-teal-100 text-teal-800",
   Business: "bg-amber-100 text-amber-800",
@@ -90,6 +147,8 @@ export default function BlogPost({ params }: Props) {
   return (
     <>
       <ArticleSchema post={post} />
+      <BreadcrumbSchema post={post} />
+      <FaqSchema post={post} />
       <div className="max-w-3xl mx-auto px-4 py-16">
         <nav className="mb-8 text-sm text-gray-500">
           <Link href="/" className="hover:text-teal-600">
