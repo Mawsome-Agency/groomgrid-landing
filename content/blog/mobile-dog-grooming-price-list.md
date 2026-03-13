@@ -6,6 +6,35 @@ slug: "mobile-dog-grooming-price-list"
 category: "Pricing"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Mobile Dog Grooming Price List: What to Charge (And Why)",
+  "description": "Mobile dog grooming pricing guide for 2026 — how to set rates by breed and service, what competitors charge, and how to communicate your prices.",
+  "url": "https://getgroomgrid.com/grooming-pricing/mobile-dog-grooming-price-list/",
+  "datePublished": "2026-03-19",
+  "dateModified": "2026-03-19",
+  "author": {
+    "@type": "Organization",
+    "name": "GroomGrid",
+    "url": "https://getgroomgrid.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GroomGrid",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://getgroomgrid.com/logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://getgroomgrid.com/grooming-pricing/mobile-dog-grooming-price-list/"
+  }
+}
+</script>
+
 # Mobile Dog Grooming Price List: What to Charge (And Why)
 
 
@@ -83,7 +112,7 @@ Some breeds require significantly more work — more coat, more time, more skill
 
 **Note:** These are mobile-market rates. Salon prices in the same markets typically run 15–25% lower. The premium is real and justified — don't undercut yourself trying to match salon pricing.
 
-For a full breakdown of standard industry pricing benchmarks, see our [dog grooming prices by breed guide](/grooming-pricing/dog-grooming-prices-by-breed/).
+For a full breakdown of standard industry pricing benchmarks, see our [dog grooming prices by breed guide](/blog/dog-grooming-prices-by-breed).
 
 ---
 
@@ -176,7 +205,7 @@ One of the best ways to stabilize mobile grooming income is to offer recurring s
 
 Recurring packages are particularly effective for doodle and poodle owners whose dogs need professional grooming every 4–6 weeks. They reduce your no-show rate (clients who've prepaid show up), stabilize your monthly revenue, and build the kind of loyal client relationships that generate referrals.
 
-A good scheduling and business management platform makes recurring packages easy to manage. Learn more about how [GroomGrid's scheduling tools](/grooming-scheduling-software/dog-grooming-appointment-software/) handle recurring bookings and automated reminders for mobile groomers.
+A good scheduling and business management platform makes recurring packages easy to manage. Learn more about how [GroomGrid's scheduling tools](/blog/dog-grooming-scheduling-app) handle recurring bookings and automated reminders for mobile groomers.
 
 ---
 
@@ -240,10 +269,10 @@ If you're running a mobile grooming operation and managing pricing, bookings, an
 Ready to see how GroomGrid helps mobile groomers stay organized and profitable? [Join the waitlist](/waitlist/).
 
 **Related reading:**
-- [Dog Grooming Prices by Breed: 2026 Complete Price Guide](/grooming-pricing/dog-grooming-prices-by-breed/)
-- [How to Price Dog Grooming Services: The Groomer's Profitability Formula](/grooming-pricing/how-to-price-dog-grooming-services/)
-- [How to Start a Mobile Dog Grooming Business](/start-grooming-business/how-to-start-a-mobile-dog-grooming-business/)
-- [Mobile Dog Grooming Scheduling Software: Run Your Van Like a Pro](/grooming-scheduling-software/mobile-dog-grooming-scheduling-software/)
+- [Dog Grooming Prices by Breed: 2026 Complete Price Guide](/blog/dog-grooming-prices-by-breed)
+- [How to Price Dog Grooming Services: The Groomer's Profitability Formula](/blog/dog-grooming-prices-by-breed)
+- [How to Start a Mobile Dog Grooming Business](/blog/how-to-start-a-mobile-dog-grooming-business)
+- [Mobile Dog Grooming Scheduling Software: Run Your Van Like a Pro](/blog/pet-grooming-software)
 
 ---
 

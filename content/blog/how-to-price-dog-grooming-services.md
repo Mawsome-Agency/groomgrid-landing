@@ -4,15 +4,6 @@ description: "Stop guessing your grooming prices. This step-by-step formula buil
 date: "2026-03-07"
 slug: "how-to-price-dog-grooming-services"
 category: "Business Operations"
-faqs:
-  - q: "How do groomers set their prices?"
-    a: "The most reliable method is cost-based pricing: calculate your true hourly cost (all business expenses divided by working hours per month), determine how long each groom type takes by breed and coat type, then set prices that cover costs plus a 30–40% profit margin."
-  - q: "Is it okay to raise dog grooming prices?"
-    a: "Yes — and most established groomers don't raise them often enough. Best practice: raise for new clients first, give 30 days advance notice to existing clients, and frame increases around rising supply and operating costs. Loyal clients almost always absorb a 10–15% increase without leaving."
-  - q: "How much should I charge for mobile dog grooming?"
-    a: "Mobile groomers typically charge $15–$35 above equivalent salon service rates to account for fuel, drive time, and the overhead of operating a self-contained mobile unit. A fuel surcharge of $10–$20 for clients outside your primary service zone is standard practice."
-  - q: "What is the average dog grooming price per hour?"
-    a: "The more useful number is your own hourly cost — what you need to earn per hour just to break even on expenses. Most established groomers in mid-cost markets aim for $50–$90 per service hour in effective earnings after costs."
 ---
 
 <script type="application/ld+json">

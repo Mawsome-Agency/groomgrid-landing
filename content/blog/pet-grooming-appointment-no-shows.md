@@ -6,6 +6,92 @@ slug: "pet-grooming-appointment-no-shows"
 category: "Business"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Pet Grooming Appointment No-Shows: How to Stop Losing Money to Empty Tables",
+  "description": "Practical strategies to reduce pet grooming no-shows — deposit policies, automated reminders, cancellation fees, and what actually works.",
+  "url": "https://getgroomgrid.com/grooming-pricing/dog-grooming-no-show-policy/",
+  "datePublished": "2026-03-19",
+  "dateModified": "2026-03-19",
+  "author": {
+    "@type": "Organization",
+    "name": "GroomGrid",
+    "url": "https://getgroomgrid.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GroomGrid",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://getgroomgrid.com/logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://getgroomgrid.com/grooming-pricing/dog-grooming-no-show-policy/"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do pet grooming no-shows cost a grooming business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 10% no-show rate — typical for grooming businesses without formal policies — on 25 appointments per week at $65/appointment equals $6,500–$9,750 in lost revenue per year. This doesn't include the cost of the held slot that turned away other clients, prep time already spent, and dead time that's nearly impossible to fill on short notice (especially for mobile groomers). A 10% no-show rate is annoying; a 15% rate is a business problem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should a pet grooming cancellation policy include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good grooming cancellation policy defines four situations: cancellation (client contacts you), late cancellation (cancels within your notice window, typically 24–48 hours), no-show (doesn't appear, no contact), and late arrival (arrives more than X minutes late). Set a 48-hour notice requirement with a 24-hour late-cancellation tier. Typical fee ranges: late cancellation 25–50% of service cost, no-show 50–100% of service cost."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should dog groomers require deposits for appointments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — especially for new clients. Requiring a deposit does three things: filters out casual browsers who book without real intent, creates financial commitment that increases show rate, and collects payment info needed to charge a fee if they no-show anyway. Deposits are most effective for first-time clients. Established, reliable clients can be deposit-exempt as a loyalty signal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What automated reminder sequence reduces dog grooming no-shows most effectively?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A three-touch reminder sequence dramatically reduces forgotten appointments: (1) booking confirmation sent immediately at scheduling, (2) 48-hour reminder — 'Your appointment is in 2 days' with cancellation instructions, (3) same-day reminder — morning of, 'See you at 2pm!' Most booking software sends these automatically. Personalizing reminders with the dog's name ('See you and Biscuit Thursday at 2pm!') improves open rates and reduces ambiguity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I enforce a no-show fee without damaging client relationships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The key is removing friction from enforcement: require card on file at booking, use software that automatically charges the fee when a no-show is logged, and let the system send the client notification — not a personal text from you. When clients know you actually charge the fee because you charged it the first time, they either stop no-showing or self-select out. Most groomers who enforce consistently report second no-shows are rare."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle clients who no-show repeatedly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For high-value clients who occasionally no-show: have a direct conversation to understand the pattern and find a better reminder approach or booking structure. For low-value clients who no-show repeatedly: require full prepayment. If they won't prepay, the relationship is costing more than it earns — politely releasing them as a client is a legitimate business decision. Apply the 'rule of two': charge the fee every time without exception."
+      }
+    }
+  ]
+}
+</script>
+
 # Pet Grooming Appointment No-Shows: How to Stop Losing Money to Empty Tables (2026)
 
 **Word Count:** ~1,900 words
@@ -161,7 +247,7 @@ A reminder that says "See you and Biscuit Thursday at 2pm!" performs better than
 
 ### Waitlist Management
 
-When a client cancels with sufficient notice, you should have a waitlist ready to fill the slot. [Dog grooming appointment software](/grooming-scheduling-software/dog-grooming-appointment-software/) with built-in waitlist management can automatically notify waitlisted clients when a slot opens — turning what would have been lost revenue into a filled appointment without any manual effort.
+When a client cancels with sufficient notice, you should have a waitlist ready to fill the slot. [Dog grooming appointment software](/blog/dog-grooming-scheduling-app) with built-in waitlist management can automatically notify waitlisted clients when a slot opens — turning what would have been lost revenue into a filled appointment without any manual effort.
 
 ---
 
@@ -210,11 +296,11 @@ The groomers who eliminate their no-show problem almost always say the same thin
 
 ## Further Reading
 
-- [Dog Grooming Appointment Software: Features Every Groomer Needs](/grooming-scheduling-software/dog-grooming-appointment-software/)
-- [How to Price Dog Grooming Services: The Groomer's Profitability Formula](/grooming-pricing/how-to-price-dog-grooming-services/)
-- [Dog Grooming Business Management — Complete Operations Guide](/dog-grooming-business-management/)
-- [Automated Rebooking for Dog Groomers: Never Chase a Client Again](/ai-grooming-software/automated-rebooking-for-dog-groomers/)
+- [Dog Grooming Appointment Software: Features Every Groomer Needs](/blog/dog-grooming-scheduling-app)
+- [How to Price Dog Grooming Services: The Groomer's Profitability Formula](/blog/dog-grooming-prices-by-breed)
+- [Dog Grooming Business Management — Complete Operations Guide](/blog/dog-grooming-business-management)
+- [Automated Rebooking for Dog Groomers: Never Chase a Client Again](/blog/pet-grooming-appointment-no-shows)
 
 ---
 
-*GroomGrid automates no-show fee collection, reminder sequences, and waitlist management so you can enforce your policies without any manual effort. [Join the waitlist at groomgrid.com](https://groomgrid.com).*
+*GroomGrid automates no-show fee collection, reminder sequences, and waitlist management so you can enforce your policies without any manual effort. [Join the waitlist at groomgrid.com](https://getgroomgrid.com).*

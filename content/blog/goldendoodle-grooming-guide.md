@@ -4,15 +4,6 @@ description: "Everything you need to know about grooming a Goldendoodle — coat
 date: "2026-03-01"
 slug: "goldendoodle-grooming-guide"
 category: "Breed Guides"
-faqs:
-  - q: "How often should I get my Goldendoodle groomed?"
-    a: "Every 6–8 weeks for most coat types, or every 4–6 weeks if your dog has a tight curly coat or you want to maintain a longer style. Waiting longer than 8 weeks significantly increases the risk of matting."
-  - q: "Can I groom my Goldendoodle at home?"
-    a: "You can handle maintenance (brushing, eye cleaning, ear checks, nail trims) at home, but professional grooming requires proper equipment and skill — particularly for scissor work and coat-type management. Most owners maintain professionally and brush at home."
-  - q: "What's the best haircut for a Goldendoodle?"
-    a: "The teddy bear cut is the most popular, but the best cut depends on your dog's coat type and your maintenance reality. A puppy cut on a wavy-coated doodle is often more practical than a longer teddy bear that mats between appointments."
-  - q: "Do Goldendoodles need deshedding treatment?"
-    a: "Curly-coated doodles shed minimally and don't benefit much from deshedding products. Wavy or straight-coated doodles shed more and can benefit from a deshedding shampoo and treatment during the bath."
 ---
 
 <script type="application/ld+json">

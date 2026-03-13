@@ -6,6 +6,35 @@ slug: "poodle-grooming-guide"
 category: "Breed Guides"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Poodle Grooming Guide: Cuts, Styles & Professional Tips",
+  "description": "Complete guide to poodle grooming — haircut styles, grooming frequency, professional techniques, and how to handle poodle coats at every clip.",
+  "url": "https://getgroomgrid.com/dog-grooming-guide/poodle-grooming/",
+  "datePublished": "2026-03-19",
+  "dateModified": "2026-03-19",
+  "author": {
+    "@type": "Organization",
+    "name": "GroomGrid",
+    "url": "https://getgroomgrid.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GroomGrid",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://getgroomgrid.com/logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://getgroomgrid.com/dog-grooming-guide/poodle-grooming/"
+  }
+}
+</script>
+
 # Poodle Grooming Guide: Cuts, Styles & Professional Tips
 
 
@@ -40,7 +69,7 @@ Poodles come in four sizes recognized by the AKC: Standard, Miniature, Toy, and 
 | Moyen / Medium | 20–35 lbs | 90–120 min | $90–$140 |
 | Standard | 40–70 lbs | 120–180 min | $110–$165 |
 
-For market pricing context and how these rates compare to other breeds, see our [dog grooming prices by breed guide](/grooming-pricing/dog-grooming-prices-by-breed/).
+For market pricing context and how these rates compare to other breeds, see our [dog grooming prices by breed guide](/blog/dog-grooming-prices-by-breed).
 
 ---
 
@@ -144,7 +173,7 @@ With the explosion of doodle breeds — Goldendoodles, Labradoodles, Bernedoodle
 
 **Pricing:** Price doodle grooms at or above poodle pricing. The coat complexity and demand for specific styling (most doodle owners want teddy bears) justifies it.
 
-For doodle-specific grooming detail, see our [goldendoodle grooming guide](/dog-grooming-guide/goldendoodle-grooming/).
+For doodle-specific grooming detail, see our [goldendoodle grooming guide](/blog/goldendoodle-grooming-guide).
 
 ---
 
@@ -159,7 +188,7 @@ Keeping detailed grooming notes per client is essential. Good notes include:
 - Any handling notes (anxious, requires breaks, doesn't like feet touched)
 - Before/after photos for accurate style continuity
 
-This is where purpose-built grooming software pays for itself. When a groomer calls in sick and a substitute takes the appointment, having complete notes in the client record means the dog goes home looking exactly as expected — and the client has no reason to feel anxious about the change. See our guide to [dog grooming client records](/grooming-business-management/dog-grooming-client-records/) for best practices.
+This is where purpose-built grooming software pays for itself. When a groomer calls in sick and a substitute takes the appointment, having complete notes in the client record means the dog goes home looking exactly as expected — and the client has no reason to feel anxious about the change. See our guide to [dog grooming client records](/blog/dog-grooming-business-management) for best practices.
 
 ---
 
@@ -178,10 +207,10 @@ Never price poodles at your baseline "medium dog" rate if they're standard or ge
 
 ## Related Reading
 
-- [Goldendoodle Grooming Guide: Cuts, Costs & Frequency](/dog-grooming-guide/goldendoodle-grooming/)
-- [Dog Grooming Prices by Breed: 2026 Complete Price Guide](/grooming-pricing/dog-grooming-prices-by-breed/)
-- [Dog Grooming Tips for Beginners: Your First 90 Days](/dog-grooming-guide/dog-grooming-tips-for-beginners/)
-- [Dog Breeds That Need the Most Grooming: A Professional Guide](/dog-grooming-guide/dog-breeds-that-need-most-grooming/)
+- [Goldendoodle Grooming Guide: Cuts, Costs & Frequency](/blog/goldendoodle-grooming-guide)
+- [Dog Grooming Prices by Breed: 2026 Complete Price Guide](/blog/dog-grooming-prices-by-breed)
+- [Dog Grooming Tips for Beginners: Your First 90 Days](/blog/dog-grooming-tips-for-beginners)
+- [Dog Breeds That Need the Most Grooming: A Professional Guide](/blog/goldendoodle-grooming-guide)
 
 ---
 

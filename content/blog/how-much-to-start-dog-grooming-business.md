@@ -4,15 +4,6 @@ description: "Starting a dog grooming business costs $3,000–$80,000 depending 
 date: "2026-03-07"
 slug: "how-much-to-start-dog-grooming-business"
 category: "Starting a Grooming Business"
-faqs:
-  - q: "How much does it cost to start a dog grooming business from home?"
-    a: "A home-based dog grooming setup typically costs $3,000–$8,000 for a complete professional setup — hydraulic table, tub, dryer, clippers and scissors, initial supplies, business license, liability insurance, and booking software."
-  - q: "Is a mobile grooming van expensive to start?"
-    a: "Mobile grooming has the highest startup cost variance. A used converted van brings total startup to $21,000–$50,000. A new purpose-built grooming van pushes total startup to $55,000–$80,000. The van itself is 60–80% of the total investment."
-  - q: "Can I get a loan to start a dog grooming business?"
-    a: "Yes. SBA 7(a) loans support grooming startups with a solid business plan and some personal financial history. The SBA Microloan program (up to $50,000) is accessible for smaller startups with less credit history."
-  - q: "What is the cheapest way to start a grooming business?"
-    a: "A home-based setup is the lowest-cost entry point — achievable for $3,000–$5,000 with quality used equipment. The non-negotiables: don't skimp on insurance, professional-grade clippers, or booking software. Everything else can be upgraded as revenue grows."
 ---
 
 <script type="application/ld+json">

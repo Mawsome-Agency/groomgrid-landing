@@ -4,15 +4,6 @@ description: "The real difference between a $60k and $120k mobile grooming van i
 date: "2026-03-07"
 slug: "mobile-dog-grooming-business-tips"
 category: "Business"
-faqs:
-  - q: "How many dogs per day can a mobile groomer do?"
-    a: "Most solo mobile groomers handle 5–7 dogs per day, depending on breed mix and appointment length. A realistic target for a productive day is 6 average dogs, which works out to $450–$550 in service revenue."
-  - q: "Is mobile dog grooming more profitable than a salon?"
-    a: "It can be, especially for solo operators. Mobile grooming eliminates lease, buildout, and employee costs at the start. The main trade-offs are van overhead, fuel, and the physical wear of working in a confined space."
-  - q: "What should I charge for mobile dog grooming?"
-    a: "Mobile grooming typically runs $15–$25 above comparable salon pricing in your market — the premium accounts for travel, convenience, and the one-on-one service context."
-  - q: "How do I get more mobile grooming clients?"
-    a: "The most effective channels are: Google Business Profile (optimize and collect reviews), Nextdoor and local Facebook groups (community word-of-mouth), and referral incentives (your existing clients' neighbors are your warmest leads)."
 ---
 
 <script type="application/ld+json">

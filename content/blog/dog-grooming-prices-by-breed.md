@@ -4,15 +4,6 @@ description: "How much does dog grooming cost? Actual 2026 price ranges by breed
 date: "2026-03-01"
 slug: "dog-grooming-prices-by-breed"
 category: "Pricing"
-faqs:
-  - q: "How much does it cost to groom a dog?"
-    a: "For most dogs, expect $50–$130 for a full groom at a mid-market salon. Small smooth-coated breeds sit at the low end; large double-coated or curly breeds like Goldendoodles or Standard Poodles sit at the high end."
-  - q: "Why is dog grooming so expensive for some breeds?"
-    a: "Grooming price reflects time, skill, and materials. A Goldendoodle takes 2.5–3.5 hours of hands-on work. A Chihuahua bath takes 30 minutes. The difference in price is proportional to the effort required."
-  - q: "How often should I groom my dog?"
-    a: "Breeds with fast-growing or matting-prone coats (Poodles, doodles, Shih Tzus, Cockers) need grooming every 6–8 weeks. Short-coated breeds (Labs, Beagles) can go 8–12 weeks between appointments for a bath."
-  - q: "Do mobile groomers cost more?"
-    a: "Yes, typically $20–$50 more per appointment. The premium reflects travel, one-on-one service, and convenience. For anxious dogs, many owners consider it worth every dollar."
 ---
 
 <script type="application/ld+json">
