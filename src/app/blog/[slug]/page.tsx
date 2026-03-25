@@ -194,7 +194,7 @@ export default function BlogPost({ params }: Props) {
         </header>
 
         <article className="prose prose-gray prose-lg max-w-none prose-headings:font-bold prose-a:text-teal-600 prose-a:no-underline hover:prose-a:underline prose-code:bg-gray-100 prose-code:px-1 prose-code:rounded">
-          <MDXRemote source={post.content} />
+          <MDXRemote source={post.content.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, "")} />
         </article>
 
         <footer className="mt-16 pt-8 border-t border-gray-200">
