@@ -139,11 +139,18 @@ const CATEGORY_COLORS: Record<string, string> = {
   "Grooming Guides": "bg-purple-100 text-purple-800",
   "Breed Guides": "bg-rose-100 text-rose-800",
   "AI & Automation": "bg-violet-100 text-violet-800",
+  "AI Grooming Software": "bg-violet-100 text-violet-800",
   Scheduling: "bg-cyan-100 text-cyan-800",
+  "Grooming Scheduling Software": "bg-cyan-100 text-cyan-800",
+  "Scheduling & Apps": "bg-cyan-100 text-cyan-800",
   "Business Growth": "bg-emerald-100 text-emerald-800",
   "Salon Management": "bg-indigo-100 text-indigo-800",
   "Starting a Grooming Business": "bg-amber-100 text-amber-800",
   "Business Operations": "bg-amber-100 text-amber-800",
+  "Business Management": "bg-amber-100 text-amber-800",
+  "Grooming Business Tips": "bg-emerald-100 text-emerald-800",
+  "Grooming Business Management": "bg-amber-100 text-amber-800",
+  "Software Pricing": "bg-blue-100 text-blue-800",
 };
 
 export default function BlogPost({ params }: Props) {
