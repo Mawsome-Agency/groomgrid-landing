@@ -1,7 +1,7 @@
 ---
-title: "Shih Tzu Grooming Guide: Cuts, Coat Care & Schedules"
-description: "Shih Tzus have some of the most demanding coats in the dog world. This guide covers the most popular cuts, how often they need grooming, and what groomers should know before they start."
-date: "2026-03-28"
+title: "Shih Tzu Grooming Guide: Coats, Cuts, and Schedules for This High-Maintenance Breed"
+description: "The complete guide to Shih Tzu grooming — understanding their double coat, popular haircut styles, how often they need professional grooming, and what to watch out for."
+date: "2026-03-24"
 slug: "shih-tzu-grooming-guide"
 category: "Breed Guides"
 ---
@@ -10,11 +10,11 @@ category: "Breed Guides"
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Shih Tzu Grooming Guide: Cuts, Coat Care & Schedules",
-  "description": "Shih Tzus have some of the most demanding coats in the dog world. This guide covers the most popular cuts, how often they need grooming, and what groomers should know before they start.",
-  "url": "https://getgroomgrid.com/blog/shih-tzu-grooming-guide",
-  "datePublished": "2026-03-28",
-  "dateModified": "2026-03-28",
+  "headline": "Shih Tzu Grooming Guide: Coats, Cuts, and Schedules for This High-Maintenance Breed",
+  "description": "The complete guide to Shih Tzu grooming — understanding their double coat, popular haircut styles, how often they need professional grooming, and what to watch out for.",
+  "url": "https://getgroomgrid.com/dog-grooming-guide/shih-tzu-grooming/",
+  "datePublished": "2026-03-24",
+  "dateModified": "2026-03-24",
   "author": {
     "@type": "Organization",
     "name": "GroomGrid",
@@ -30,158 +30,233 @@ category: "Breed Guides"
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://getgroomgrid.com/blog/shih-tzu-grooming-guide"
+    "@id": "https://getgroomgrid.com/dog-grooming-guide/shih-tzu-grooming/"
   }
 }
 </script>
 
-# Shih Tzu Grooming Guide: Cuts, Coat Care & Schedules
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should a Shih Tzu be groomed professionally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shih Tzus in a long show coat need professional grooming every 6–8 weeks minimum. Dogs kept in a puppy cut or shorter style can go every 8–10 weeks, but most owners find 6–8 weeks is the sweet spot for coat management. Waiting much longer leads to matting, especially behind the ears and in the leg folds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most popular Shih Tzu haircut?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The puppy cut (also called the teddy bear cut) is the most popular Shih Tzu haircut for pet owners. It keeps the coat at a uniform 1–2 inches, making it easy to manage between appointments. The show coat (long, flowing, and parted down the middle) is traditional but requires daily maintenance that most pet owners can't realistically sustain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do Shih Tzus need to be brushed every day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shih Tzus in a long coat should be brushed daily. Dogs in a puppy cut need brushing 3–4 times per week. The double coat sheds internally — loose hair stays in the coat and tangles into mats without regular brushing. Even dogs in short cuts can develop mats in high-friction areas like behind the ears and armpits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does my Shih Tzu get eye stains?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shih Tzus are a brachycephalic breed with large, prominent eyes that naturally produce more discharge than most dogs. The discharge oxidizes on the hair, creating reddish-brown staining called epiphora. Daily wiping with a damp cloth or tear stain wipe helps prevent buildup. Persistent staining may have dietary or health components — a vet conversation is worth having if wiping alone isn't enough."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does it cost to groom a Shih Tzu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Professional Shih Tzu grooming typically costs $55–$90 for a full groom, depending on coat condition, location, and whether the appointment is at a salon or mobile. Dogs in longer styles or with significant matting will be at the higher end. Mobile grooming adds a convenience premium of $15–$35 above salon rates in most markets."
+      }
+    }
+  ]
+}
+</script>
 
-If you have Shih Tzu clients on your roster, you already know: these dogs are stunning when groomed well and a tangled disaster when they're not. The Shih Tzu's double coat — long, silky, flowing — is the whole point of the breed. Owners love it. Groomers respect it. And every six to eight weeks, that coat needs your full attention.
+# Shih Tzu Grooming Guide: Coats, Cuts, and Schedules for This High-Maintenance Breed
 
-This guide covers everything you need to know about grooming Shih Tzus: coat structure, the most popular cuts, grooming frequency, and the techniques that separate a clean groom from a great one.
-
----
-
-## Understanding the Shih Tzu Coat
-
-The Shih Tzu has a double coat: a soft, dense undercoat and a long, silky outer coat. In a show dog, the outer coat can reach the floor. In a pet dog with an active lifestyle, it's usually kept much shorter — but even at a moderate length, the coat requires consistent maintenance.
-
-**Key characteristics:**
-
-- **Low shedding** — Shih Tzus shed minimally. Hair tends to stay in the coat rather than falling out, which is why matting is a constant risk.
-- **Mat-prone** — the fine, silky texture tangles easily, especially behind the ears, in the armpits, around the collar, and in the groin area.
-- **Fast-growing** — most Shih Tzu owners are on a 6–8 week grooming schedule, sometimes shorter for owners who keep them in full coat.
-- **Moisture-sensitive** — wet hair left unbrushed after a bath is a fast track to mats.
-
-Before you start any groom, do a thorough mat check. Pay special attention to the armpits and behind the ears — these are the problem zones on nearly every Shih Tzu that comes in.
-
----
-
-## Most Popular Shih Tzu Haircut Styles
-
-### 1. The Puppy Cut (Most Popular)
-
-The puppy cut is the go-to for most Shih Tzu pet owners. Hair is trimmed to a uniform length all over — typically 1–2 inches — giving the dog a round, fluffy, manageable look.
-
-**What owners love:** Low maintenance between appointments. Stays tidy longer. Dog stays cooler in warm weather.
-
-**Technique notes:** Scissor finish around the face, feet, and tail for the cleanest look. Blend carefully at the neck and shoulders. The top knot is usually trimmed into a neat rounded shape or removed entirely depending on the owner's preference.
-
-### 2. The Teddy Bear Cut
-
-Similar to the puppy cut but with a specific emphasis on the face: the muzzle is trimmed round and full, giving the dog a plush stuffed-animal appearance. The body length varies — some owners want the body short, others keep it slightly longer.
-
-**What makes it distinct:** It's all about the face. Take your time shaping the muzzle — even slightly asymmetrical trimming shows on a Shih Tzu. Round out the top of the head to balance.
-
-**Owner expectation:** Very high. Owners who ask for a teddy bear cut have usually seen a photo and want to match it. Confirm before you start.
-
-### 3. Show Cut / Full Coat
-
-The traditional Shih Tzu show coat — long, parted down the middle of the back, flowing to the floor, with a top knot. In practice, very few pet dogs are kept in this style. It requires daily brushing and professional grooming every 4–6 weeks to maintain.
-
-**When you'll see it:** Typically clients who show dogs, or occasionally owners who want the classic look and are committed to the upkeep. Confirm the owner is actually brushing daily before you leave the coat long.
-
-### 4. The Lion Cut
-
-The body is shaved very short (down to about ½ inch), leaving a full mane around the head and neck and a pom on the tail. This is a breed-traditional cut (the Shih Tzu was bred in Tibet and the lion cut references the lion's role in Buddhist iconography).
-
-**When it's requested:** Typically in warm climates, summer months, or when a dog has been significantly matted and the owner wants a fresh start.
-
-**Note:** Some owners love it; others hate it. Show the owner a reference photo before you commit to the lion cut on a new client.
-
-### 5. The Summer Cut
-
-Very short all over — similar to the puppy cut but tighter, usually ¼ to ½ inch. Often requested in warmer months or for dogs that tend to overheat.
+**Word Count:** ~2,200 words
 
 ---
 
-## Grooming Frequency for Shih Tzus
+Shih Tzus are one of the most beloved toy breeds in the country, and also one of the most grooming-dependent. That's not a complaint — it's just the deal you sign up for when you bring one home. Their long, flowing double coat is gorgeous when maintained and a matted disaster when neglected. And unlike short-coated breeds where neglect mostly means shedding on the couch, a neglected Shih Tzu coat can develop painful mats close to the skin within weeks.
 
-| Coat Style | Recommended Frequency |
+This guide covers everything owners and groomers need to know: how the Shih Tzu coat actually works, the most popular cut styles, how often professional grooming is genuinely necessary, and what to watch for between appointments.
+
+---
+
+## Understanding the Shih Tzu Double Coat
+
+Shih Tzus have a double coat — a soft, dense undercoat beneath a longer, flowing outer coat. This combination is what gives them their distinctive silky appearance, but it also explains why matting is such a persistent issue for the breed.
+
+Unlike single-coated dogs where shed hair falls freely to the floor, Shih Tzu shed is retained in the coat. The soft undercoat traps loose hair, which then tangles with the surrounding coat over time. By the time you can feel a mat from the outside, it's often already formed tight against the skin. This is true even for Shih Tzus kept in short cuts — the mechanism is the same, the mats are just smaller and more manageable.
+
+**Key coat characteristics:**
+- **Texture:** Soft to silky outer coat, dense soft undercoat
+- **Shedding:** Minimal external shedding — most shed hair stays in the coat
+- **Growth:** Continuous — the coat grows throughout the dog's life without natural shedding cycles
+- **Sensitivity:** The coat around the face, particularly near the eyes, requires consistent maintenance to prevent irritation and staining
+
+The brachycephalic (flat-faced) anatomy of the Shih Tzu adds another grooming dimension: the hair around their large, prominent eyes is prone to collecting discharge and developing tear staining that requires daily attention, not just a cleaning at every groom.
+
+---
+
+## The Shih Tzu's High-Maintenance Zones
+
+Every breed has trouble spots — the places where mats form first and owners miss most often. For Shih Tzus:
+
+**Behind and inside the ears:** The floppy ear set traps moisture and friction from head movement, making behind-ear mats one of the most common problems groomers see on this breed. Owners often don't discover these until the groomer points them out.
+
+**Armpits and leg junctions:** The friction from the front legs moving against the chest creates mats that start small and grow dense. This area is easy to miss visually but easy to feel with a comb.
+
+**Collar area:** Harness and collar contact areas mat faster than anywhere else. Rotating between a harness and collar, or removing them when the dog is home, slows this down.
+
+**Topknot base:** For dogs kept in long styles with a topknot, the hair tie can create a mat at the base where hair wraps and tangles over time. Always remove the band before bathing, and check this area at every brushing.
+
+**Under the tail and in the groin area:** These areas are particularly prone to matting and buildup. Regular sanitary trims keep them clean and manageable between full grooms.
+
+---
+
+## Shih Tzu Haircut Styles
+
+Shih Tzus are versatile when it comes to styling. Here are the most common cuts, with honest notes on maintenance demands:
+
+### Show Coat (Full Coat / Traditional Style)
+The long, floor-length coat parted down the middle with a topknot and bows — this is the classic Shih Tzu look from breed shows. It's genuinely beautiful and genuinely demanding.
+
+**What it requires:** Daily brushing and combing, professional grooms every 6–8 weeks, topknot maintenance, daily eye cleaning, and a significant time investment from the owner.
+**Best for:** Owners who are fully committed to daily coat care, or show dogs with professional handlers.
+**Reality check:** Most pet owners start with this vision and end up requesting a shorter cut within a year. That's completely fine — the puppy cut is a great option.
+
+### Puppy Cut (Teddy Bear Cut)
+The uniform all-over trim at 1–2 inches is the most popular Shih Tzu cut for pet owners, and for good reason. It maintains the plush, soft appearance of the breed while dramatically reducing the brushing commitment.
+
+**What it requires:** Brushing 3–4 times per week, professional grooms every 8–10 weeks.
+**Best for:** Active dogs, families with kids, owners who love their Shih Tzu's look but can't commit to daily brushing.
+**Note:** Even at 1–2 inches, Shih Tzus in puppy cuts can still mat in the trouble zones. The shorter length just makes them easier to catch and address.
+
+### Top Knot with Short Body
+A popular middle-ground: the body is kept short (1.5–2 inches) but the head coat is left longer and pulled into a traditional topknot. Combines the easy-care body of a puppy cut with the signature Shih Tzu head look.
+
+**What it requires:** Short body maintenance + daily topknot care (removing and re-tying, checking for mats at the base).
+**Best for:** Owners who want to preserve the characteristic Shih Tzu head style without maintaining a full show coat.
+
+### Summer Cut / Kennel Cut
+Very short all over — sometimes 1/2 inch to 3/4 inch — often done in summer for comfort or after significant matting. Practical and low-maintenance.
+
+**Best for:** Hot climates, dogs that swim or are outdoors frequently, dogs recovering from a mat situation.
+**Note:** After a close clip, the coat often grows back slightly different in texture. This is normal and temporary.
+
+---
+
+## How Often Should a Shih Tzu Be Professionally Groomed?
+
+More often than most owners expect.
+
+The common mistake is waiting until the dog "looks like they need a groom." By that point, the coat is typically already matted beneath the surface. The Shih Tzu's double coat creates the illusion of being okay from the outside while a different story develops underneath.
+
+**Grooming schedule by coat style:**
+
+| Coat Style | Home Brushing | Professional Groom |
+|---|---|---|
+| Full show coat | Daily | Every 6–8 weeks |
+| Medium length (3–4 inches) | Every other day | Every 6–8 weeks |
+| Puppy cut / short (1–2 inches) | 3–4x per week | Every 8–10 weeks |
+| Summer cut (very short) | 1–2x per week | Every 10–12 weeks |
+
+**Puppy appointments:** Start early — Shih Tzu puppies should have their first grooming appointment by 12–16 weeks. The primary goal isn't a haircut; it's desensitization. Getting them comfortable with the sounds, handling, and equipment early makes every future appointment less stressful for the dog and the groomer.
+
+---
+
+## What to Expect at a Shih Tzu Grooming Appointment
+
+A full Shih Tzu groom with an experienced groomer typically runs 2–3 hours, depending on coat condition and length. Here's the sequence:
+
+1. **Pre-bath brush-out** — Detangle the coat before bathing. Mats that go through the wash tighten and become much harder to remove. A thorough pre-bath brush-out is non-negotiable for a clean result.
+2. **Bath** — Typically a two-pass process: clarifying shampoo first, conditioning shampoo or treatment second. The double coat needs full saturation — it resists water more than single-coat breeds.
+3. **Blow-dry and line dry** — High-velocity dryer works through the coat from skin outward, then a stand dryer and brush finish the coat straight. Completely dry is mandatory before cutting.
+4. **Brush-out post-dry** — The greyhound comb check: if it doesn't pass through clean from root to tip, that section needs more work before the scissors come out.
+5. **Haircut** — Body, legs, face, topknot, tail, and sanitary trim. Face work on a Shih Tzu requires patience and rounded safety scissors.
+6. **Finishing** — Nails, ear cleaning (check for debris and odor; refer to vet if anything concerning), topknot styling if applicable.
+
+**Dematting note:** If a Shih Tzu arrives with significant matting, the professional groomer needs to communicate the situation and options before proceeding. Forcing out dense mats causes pain and skin irritation. In many cases, clipping the mat out and starting fresh is the kindest approach — and owners should be told that before it happens, not at pickup.
+
+---
+
+## What Shih Tzu Grooming Costs
+
+Shih Tzus are a premium groom given their time requirements and coat complexity. Price varies by location, salon vs. mobile, and coat condition:
+
+| Service | Typical Price Range |
 |---|---|
-| Full coat / show length | Every 4–6 weeks |
-| Medium length (2–3 inches) | Every 6–8 weeks |
-| Short cut / puppy cut | Every 6–10 weeks |
-| Summer / very short | Every 8–12 weeks |
+| Full groom — puppy cut | $55 – $75 |
+| Full groom — longer style | $65 – $90 |
+| Dematting surcharge (if needed) | $15 – $50+ |
+| Bath and brush only | $40 – $55 |
+| Mobile grooming premium | Add $15 – $35 |
 
-Owners who let the schedule slip past 10–12 weeks on a medium-length coat are usually coming in matted. It's worth discussing frequency expectations at intake — a client who understands the maintenance schedule is less likely to be upset when a dematting fee applies.
-
-Set up automated reminders at the 6-week mark. [Grooming management software](https://getgroomgrid.com/blog/pet-grooming-software) can send these automatically so you don't have to track every client individually.
-
----
-
-## Step-by-Step: Grooming a Shih Tzu
-
-### Before the Bath
-
-1. **Mat check** — work through the entire coat with a wide-tooth comb. Don't wet a matted coat; water tightens mats.
-2. **Demat if needed** — use a dematting spray and work from the ends. For severe mats, dematting may not be possible and you'll need to shave below the mat.
-3. **Trim nails before the bath** — easier to handle nails before the dog is wet.
-
-### Bath
-
-- Use a high-quality shampoo formulated for silky/long coats. Harsh shampoos can dry out the Shih Tzu's coat.
-- Dilute shampoo before applying — this helps distribute product evenly without stripping the coat.
-- Follow with a conditioning treatment. The silky outer coat benefits significantly from conditioner — it reduces static, adds slip, and makes brushing easier.
-- Rinse thoroughly. Conditioner residue in a double coat leads to buildup and dull coat.
-
-### Drying
-
-- High-velocity drying is your friend on the double coat. Blow out undercoat while keeping the outer coat straight.
-- Finish with a slicker brush and a comb for a smooth, tangle-free result.
-- Do not put a Shih Tzu away damp. Their dense undercoat holds moisture and will mat.
-
-### Finishing
-
-- Trim the face carefully. The Shih Tzu's flat face (brachycephalic) means you're working close to the eyes and nose. Use blunt-tipped scissors.
-- Clear hair away from the eyes. Long facial hair can cause irritation and eye discharge. Most pet owners prefer the face kept relatively clear even if the body is left longer.
-- Round the feet (cat foot shape).
-- Finish the tail based on the chosen cut — pom for lion cut, blended for puppy/teddy bear.
+For a full breakdown of what groomers charge across breeds, see the [dog grooming prices by breed guide](/grooming-pricing/dog-grooming-prices-by-breed/). Shih Tzus consistently sit in the mid-to-upper range for toy breeds — not at Goldendoodle-level pricing, but meaningfully more than a smooth-coated dog of similar size.
 
 ---
 
-## Special Considerations for Shih Tzu Clients
+## At-Home Maintenance Between Appointments
 
-**Brachycephalic breed.** Shih Tzus are a flat-faced breed, which means they can have difficulty regulating temperature, are more sensitive to stress, and may have compromised airways. Keep dryer temperatures moderate, take breaks, and watch for signs of overheating or respiratory distress. This is especially important for senior dogs.
+The difference between a dog that's easy to groom professionally and one that arrives in a mat situation usually comes down to what happens at home between appointments.
 
-**Eye discharge.** Many Shih Tzus have tear staining around the eyes. Cleaning this area gently and using a small amount of tearless conditioner can help. Note the discharge in client records — if it suddenly worsens, it may indicate a health issue the vet should look at.
+**Brushing:** The essential tool is a slicker brush plus a metal greyhound comb. The brush removes surface tangles; the comb is the quality check. If the comb doesn't pass through clean, there's a mat developing that needs attention now, not at the next appointment.
 
-**Senior Shih Tzus.** The breed typically lives 10–16 years. Older Shih Tzus may have arthritis, heart conditions, or reduced stress tolerance. Keep grooms shorter for seniors, give more breaks, and flag any concerns to the owner.
+**Daily face care:** Wipe the area around the eyes with a damp cloth or dog-safe tear stain wipe every day. The discharge from Shih Tzu eyes oxidizes quickly and stains the coat — daily prevention takes 30 seconds and saves significant cleanup effort over time.
 
-**First-time grooms.** Young Shih Tzus often come in for their first groom at 12–16 weeks. Take it slow — the goal of the first appointment is positive association, not perfection.
+**Ear checks:** Floppy ears mean reduced airflow to the ear canal. Check weekly for redness, odor, or debris. These are vet concerns, not grooming issues — don't attempt to treat ear infections at home.
 
----
-
-## Pricing Shih Tzu Grooms
-
-Shih Tzus are generally priced in a medium-to-high range for their size category, reflecting the time and skill involved.
-
-**Factors that affect price:**
-
-- Coat length (longer coat = more time)
-- Matting (dematting fees apply)
-- Dog behavior / cooperation level
-- Add-on services (teeth brushing, ear cleaning, anal glands)
-
-If you're unsure where to set your prices, the [dog grooming prices by breed guide](https://getgroomgrid.com/blog/dog-grooming-prices-by-breed) breaks down industry benchmarks. And if you want to formalize your pricing structure with per-breed pricing tables, [GroomGrid's pricing tools](https://getgroomgrid.com/blog/how-to-price-dog-grooming-services) make it easy to set, communicate, and update prices across your service menu.
+**Paw maintenance:** Check between the paw pads after walks. Shih Tzus often develop fur buildup between the toes that catches debris and mats up. A quick trim in this area between grooms is one of the most appreciated things an owner can learn to do themselves.
 
 ---
 
-## Building Your Shih Tzu Client Base
+## For Groomers: Working with Shih Tzu Clients
 
-Shih Tzu owners are among the most loyal grooming clients — once they find a groomer who gets the breed and the cuts they want, they tend to stay for years. They also refer within the breed community: dog shows, breed groups, Instagram, local Shih Tzu Facebook groups. Doing great work on one Shih Tzu can bring you several more.
+Shih Tzus are a staple breed in any grooming book. A few operational notes:
 
-Document the cut details — length, blade sizes, finish notes — on every appointment. When the client comes back, you can recreate the exact groom without asking the owner to describe it again from scratch. [Automated rebooking reminders](https://getgroomgrid.com/blog/automated-rebooking-for-dog-groomers) keep the schedule full and reduce the gap between appointments that leads to matted coats.
+**Time estimation matters.** A Shih Tzu in a puppy cut in good coat condition and one arriving in a 12-week mat situation are completely different jobs. The intake photo and pre-groom coat assessment should inform your time block — not your hope that it's fine.
 
----
+**Owner education at pickup is everything.** Shih Tzu owners who understand their dog's coat brushing requirements are dramatically better clients. Take two minutes at checkout to show them what they're brushing for and how to use the comb as a quality check.
 
-## The Bottom Line
+**Track coat notes per dog.** Knowing that a dog came in mat-free last time but was on a 10-week schedule helps you predict what you'll see this time. Grooming management software like [GroomGrid](https://getgroomgrid.com) stores coat condition, service history, and behavioral notes per dog so every appointment starts with full context — especially useful for a high-maintenance breed like the Shih Tzu.
 
-The Shih Tzu is a high-maintenance breed in the best possible way — they reward skilled grooming with a stunning result, and their owners appreciate the effort. Know your cuts, watch the face and the mats, keep the coat dry, and build a reliable schedule. These are clients who stick around.
-
-Looking for more breed grooming guides? See the [Goldendoodle grooming guide](https://getgroomgrid.com/blog/goldendoodle-grooming-guide) and [Poodle grooming guide](https://getgroomgrid.com/blog/poodle-grooming-guide) for two more high-demand breeds.
+For groomers expanding their breed expertise, the [Goldendoodle grooming guide](/dog-grooming-guide/goldendoodle-grooming/) covers similar double-coat challenges with doodle-specific nuance, and the [Poodle grooming guide](/dog-grooming-guide/poodle-grooming/) is essential reading for understanding curly coat mechanics — directly applicable to the Shih Tzu's coat structure.
 
 ---
 
-*Related reading: [Dog Grooming Tips for Beginners](https://getgroomgrid.com/blog/dog-grooming-tips-for-beginners) | [How to Price Dog Grooming Services](https://getgroomgrid.com/blog/how-to-price-dog-grooming-services) | [Pet Grooming Software](https://getgroomgrid.com/blog/pet-grooming-software)*
+## FAQ
+
+**How often should a Shih Tzu be groomed professionally?**
+Shih Tzus in a long show coat need professional grooming every 6–8 weeks minimum. Dogs kept in a puppy cut or shorter style can go every 8–10 weeks, but most owners find 6–8 weeks is the sweet spot for coat management. Waiting much longer leads to matting, especially behind the ears and in the leg folds.
+
+**What is the most popular Shih Tzu haircut?**
+The puppy cut (also called the teddy bear cut) is the most popular Shih Tzu haircut for pet owners. It keeps the coat at a uniform 1–2 inches, making it easy to manage between appointments. The show coat (long, flowing, and parted down the middle) is traditional but requires daily maintenance that most pet owners can't realistically sustain.
+
+**Do Shih Tzus need to be brushed every day?**
+Shih Tzus in a long coat should be brushed daily. Dogs in a puppy cut need brushing 3–4 times per week. The double coat sheds internally — loose hair stays in the coat and tangles into mats without regular brushing. Even dogs in short cuts can develop mats in high-friction areas like behind the ears and armpits.
+
+**Why does my Shih Tzu get eye stains?**
+Shih Tzus are a brachycephalic breed with large, prominent eyes that naturally produce more discharge than most dogs. The discharge oxidizes on the hair, creating reddish-brown staining called epiphora. Daily wiping with a damp cloth or tear stain wipe helps prevent buildup. Persistent staining may have dietary or health components — a vet conversation is worth having if wiping alone isn't enough.
+
+**How much does it cost to groom a Shih Tzu?**
+Professional Shih Tzu grooming typically costs $55–$90 for a full groom, depending on coat condition, location, and whether the appointment is at a salon or mobile. Dogs in longer styles or with significant matting will be at the higher end. Mobile grooming adds a convenience premium of $15–$35 above salon rates in most markets.
+
+---
+
+*Running a pet grooming business? [GroomGrid](https://getgroomgrid.com) is AI-powered grooming business management software built for how groomers actually work. Join the waitlist.*
+
+---

@@ -176,7 +176,7 @@ What to include:
 - Fee for no-show (typically 50–100% of service fee, or forfeiture of deposit)
 - Deposit policy for first-time clients or after a no-show history
 
-**Why it matters:** A cancellation policy in your email signature or on your website is easy for clients to claim they never saw. A signed contract with the policy explicitly stated removes that argument. For full detail on implementing a no-show policy, see the [dog grooming no-show policy guide](/blog/pet-grooming-appointment-no-shows/).
+**Why it matters:** A cancellation policy in your email signature or on your website is easy for clients to claim they never saw. A signed contract with the policy explicitly stated removes that argument. For full detail on implementing a no-show policy, see the [dog grooming no-show policy guide](/grooming-pricing/dog-grooming-no-show-policy/).
 
 ### 6. Liability Limitation
 A section clarifying the scope of the groomer's responsibility.
@@ -360,7 +360,7 @@ Having a contract is step one. Collecting it consistently from every new client 
 
 A contract is only as strong as the policies it references. If your contract mentions a cancellation fee but you've never actually charged one, the policy loses its credibility with clients. A few resources to pair with your new contract:
 
-- **No-show policy:** For detailed guidance on implementing a consistent no-show fee structure, see the [grooming no-show policy guide](/blog/pet-grooming-appointment-no-shows/).
+- **No-show policy:** For detailed guidance on implementing a consistent no-show fee structure, see the [grooming no-show policy guide](/grooming-pricing/dog-grooming-no-show-policy/).
 - **Salon management systems:** A contract that gets lost in a filing cabinet isn't protecting you. The [grooming salon software guide](/grooming-business-management/grooming-salon-software/) covers platforms that store client records, signatures, and health disclosure information digitally.
 - **Starting your business right:** If you're setting up your first grooming contract as part of launching a new operation, the [how to start a dog grooming business guide](/start-grooming-business/how-to-start-a-dog-grooming-business/) covers the full startup checklist — contracts included.
 - **Full business management:** For the operational layer that ties contracts, scheduling, payments, and client records together, see the [dog grooming business management hub](/dog-grooming-business-management/).
