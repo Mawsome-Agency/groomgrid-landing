@@ -6,35 +6,6 @@ slug: "how-to-increase-dog-grooming-revenue"
 category: "Business Growth"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "How to Increase Dog Grooming Revenue: 10 Strategies That Actually Work",
-  "description": "Getting more clients is one way to grow. But the smarter play is growing what each client is already worth. Here are 10 revenue strategies groomers actually use.",
-  "url": "https://getgroomgrid.com/blog/how-to-increase-dog-grooming-revenue",
-  "datePublished": "2026-03-28",
-  "dateModified": "2026-03-28",
-  "author": {
-    "@type": "Organization",
-    "name": "GroomGrid",
-    "url": "https://getgroomgrid.com"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "GroomGrid",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://getgroomgrid.com/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://getgroomgrid.com/blog/how-to-increase-dog-grooming-revenue"
-  }
-}
-</script>
-
 # How to Increase Dog Grooming Revenue: 10 Strategies That Actually Work
 
 Most grooming business owners think about growth as a math problem: more clients × same price = more money. That's not wrong, but it's not the whole picture — and for groomers who are already at capacity, it's not even an option.

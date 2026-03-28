@@ -6,35 +6,6 @@ slug: "dog-grooming-tools-equipment-list"
 category: "Business Operations"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Dog Grooming Tools: Complete Equipment Checklist for New Groomers",
-  "description": "Starting out in dog grooming means building a toolkit that actually works. This guide covers every tool you need — what it does, what to look for, and what you can skip at first.",
-  "url": "https://getgroomgrid.com/blog/dog-grooming-tools-equipment-list",
-  "datePublished": "2026-03-28",
-  "dateModified": "2026-03-28",
-  "author": {
-    "@type": "Organization",
-    "name": "GroomGrid",
-    "url": "https://getgroomgrid.com"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "GroomGrid",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://getgroomgrid.com/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://getgroomgrid.com/blog/dog-grooming-tools-equipment-list"
-  }
-}
-</script>
-
 # Dog Grooming Tools: Complete Equipment Checklist for New Groomers
 
 Your tools are the foundation of your work. A sharp, well-maintained set of clippers can make a challenging coat manageable. A dull blade on a mat-prone dog makes a bad day worse. Getting the right tools from the start — and knowing how to maintain them — separates groomers who struggle from groomers who build a reputation.

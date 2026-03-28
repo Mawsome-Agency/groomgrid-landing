@@ -6,35 +6,6 @@ slug: "dog-grooming-client-intake-form"
 category: "Business Operations"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Dog Grooming Client Intake Form: What to Include + Free Template",
-  "description": "A solid dog grooming intake form protects your business, saves time at check-in, and gives you everything you need to do great work. Here's exactly what to put on it.",
-  "url": "https://getgroomgrid.com/blog/dog-grooming-client-intake-form",
-  "datePublished": "2026-03-28",
-  "dateModified": "2026-03-28",
-  "author": {
-    "@type": "Organization",
-    "name": "GroomGrid",
-    "url": "https://getgroomgrid.com"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "GroomGrid",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://getgroomgrid.com/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://getgroomgrid.com/blog/dog-grooming-client-intake-form"
-  }
-}
-</script>
-
 # Dog Grooming Client Intake Form: What to Include + Free Template
 
 You can be the best groomer in your city and still have a bad day because you didn't know about the dog's bad hip until you were already lifting it onto the table. Or because the owner never mentioned the dog had been bite-warned at the last salon. Or because you did exactly what you thought was requested, and the owner expected something completely different.
