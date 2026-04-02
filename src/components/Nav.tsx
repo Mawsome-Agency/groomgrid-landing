@@ -53,6 +53,12 @@ export default function Nav() {
 
           {/* Desktop nav */}
           <div className="hidden md:flex items-center gap-8">
+            <Link
+              href="/blog"
+              className="text-sm font-medium text-gray-600 hover:text-teal-600 transition-colors"
+            >
+              Blog
+            </Link>
             <a
               href="#features"
               className="text-sm font-medium text-gray-600 hover:text-teal-600 transition-colors"
@@ -106,13 +112,15 @@ export default function Nav() {
         </div>
 
         {/* Mobile menu */}
-        <div
-          className={cn(
-            "md:hidden overflow-hidden transition-all duration-300 ease-in-out",
-            menuOpen ? "max-h-64 opacity-100" : "max-h-0 opacity-0"
-          )}
-        >
-          <div className="border-t border-gray-100 py-4 space-y-1">
+        {menuOpen && (
+          <div className="md:hidden bg-white border-t border-gray-100 py-4 space-y-3">
+            <Link
+              href="/blog"
+              className="block px-4 py-2 text-sm font-medium text-gray-600 hover:text-teal-600"
+              onClick={() => setMenuOpen(false)}
+            >
+              Blog
+            </Link>
             <a
               href="#features"
               className="block px-4 py-3 text-base font-medium text-gray-600 hover:text-teal-600 hover:bg-teal-50/50 rounded-lg transition-colors"
@@ -137,7 +145,7 @@ export default function Nav() {
               </a>
             </div>
           </div>
-        </div>
+        )}
       </div>
     </nav>
   );

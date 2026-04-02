@@ -94,7 +94,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               {[
                 { label: "About", href: "#" },
-                { label: "Blog", href: "#" },
+                { label: "Blog", href: "/blog" },
                 { label: "Privacy Policy", href: "/privacy" },
                 { label: "Terms of Service", href: "/terms" },
                 { label: "Contact", href: "mailto:hello@groomgrid.com" },

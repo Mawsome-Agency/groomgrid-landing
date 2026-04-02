@@ -15,6 +15,17 @@ const nextConfig = {
         destination: "/#waitlist",
         permanent: true,
       },
+      {
+        source: "/:path*",
+        has: [
+          {
+            type: "host",
+            value: "www.getgroomgrid.com",
+          },
+        ],
+        destination: "https://getgroomgrid.com/:path*",
+        permanent: true,
+      },
     ];
   },
 };
