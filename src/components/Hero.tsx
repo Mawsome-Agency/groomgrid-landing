@@ -6,7 +6,7 @@ const stats = [
 
 export default function Hero() {
   return (
-    <section className="relative min-h-screen flex items-center bg-gradient-hero overflow-hidden pt-16">
+    <section className="relative flex items-center bg-gradient-hero overflow-hidden pt-24 pb-16 md:pt-32 md:pb-24">
       {/* Background decorations */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none" aria-hidden="true">
         <div className="absolute -top-24 -right-24 w-96 h-96 bg-teal-100/60 rounded-full blur-3xl" />
@@ -14,32 +14,32 @@ export default function Hero() {
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-sand-100/30 rounded-full blur-3xl" />
       </div>
 
-      <div className="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
+      <div className="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
         <div className="text-center max-w-4xl mx-auto">
           {/* Badge */}
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-teal-50 border border-teal-200 text-teal-700 text-sm font-medium mb-8 animate-fade-in">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-teal-50 border border-teal-200 text-teal-700 text-sm font-medium mb-6 animate-fade-in">
             <span className="w-2 h-2 rounded-full bg-teal-500 animate-pulse" />
             Now in Early Access — Join the waitlist
           </div>
 
           {/* Headline */}
-          <h1 className="font-display text-5xl sm:text-6xl md:text-7xl font-extrabold text-gray-900 leading-[1.08] tracking-tight mb-6 animate-slide-up">
+          <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-gray-900 leading-[1.08] tracking-tight mb-4 md:mb-6 animate-slide-up">
             The Grooming Business{" "}
             <span className="text-gradient">That Runs Itself</span>
           </h1>
 
           {/* Subheadline */}
-          <p className="text-xl md:text-2xl text-gray-600 leading-relaxed max-w-3xl mx-auto mb-10 animate-slide-up">
+          <p className="text-lg md:text-xl lg:text-2xl text-gray-600 leading-relaxed max-w-3xl mx-auto mb-8 animate-slide-up">
             GroomGrid is the AI-powered platform built for pet groomers. Smart
             scheduling, breed detection, automated client notes — so you can
             focus on the dogs, not the admin.
           </p>
 
           {/* CTA buttons */}
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-4 mb-10 md:mb-14">
             <a
               href="#waitlist"
-              className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-teal-700 text-white font-semibold text-lg hover:bg-teal-800 active:bg-teal-900 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-xl bg-teal-700 text-white font-semibold text-base md:text-lg hover:bg-teal-800 active:bg-teal-900 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
             >
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
@@ -48,7 +48,7 @@ export default function Hero() {
             </a>
             <a
               href="#features"
-              className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white text-gray-700 font-semibold text-lg hover:bg-gray-50 transition-all shadow-sm border border-gray-200 hover:-translate-y-0.5"
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-xl bg-white text-gray-700 font-semibold text-base md:text-lg hover:bg-gray-50 transition-all shadow-sm border border-gray-200 hover:-translate-y-0.5"
             >
               See how it works
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -58,24 +58,24 @@ export default function Hero() {
           </div>
 
           {/* Stats */}
-          <div className="grid grid-cols-3 gap-6 max-w-2xl mx-auto mb-16">
+          <div className="grid grid-cols-3 gap-4 md:gap-6 max-w-xl md:max-w-2xl mx-auto mb-10 md:mb-14">
             {stats.map((stat) => (
               <div key={stat.label} className="text-center">
-                <div className="font-display text-3xl md:text-4xl font-extrabold text-teal-600 mb-1">
+                <div className="font-display text-2xl md:text-4xl font-extrabold text-teal-600 mb-0.5 md:mb-1">
                   {stat.value}
                 </div>
-                <div className="text-sm text-gray-500 font-medium">{stat.label}</div>
+                <div className="text-xs md:text-sm text-gray-500 font-medium">{stat.label}</div>
               </div>
             ))}
           </div>
 
           {/* Social proof */}
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 text-sm text-gray-500">
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-3 text-sm text-gray-500">
             <div className="flex items-center -space-x-2">
               {["🐶", "🐱", "🐩", "🦮", "🐾"].map((emoji, i) => (
                 <div
                   key={i}
-                  className="w-9 h-9 rounded-full bg-white border-2 border-white shadow-sm flex items-center justify-center text-base"
+                  className="w-8 h-8 md:w-9 md:h-9 rounded-full bg-white border-2 border-white shadow-sm flex items-center justify-center text-sm md:text-base"
                   style={{ zIndex: 5 - i }}
                 >
                   {emoji}
@@ -89,9 +89,9 @@ export default function Hero() {
           </div>
         </div>
 
-        {/* App Preview Mock */}
-        <div className="relative mt-20 max-w-4xl mx-auto">
-          <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-gray-200/60 bg-white animate-float">
+        {/* App Preview Mock - hidden on small mobile, visible from sm up */}
+        <div className="relative mt-12 md:mt-20 max-w-4xl mx-auto hidden sm:block">
+          <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-gray-200/60 bg-white">
             {/* Browser chrome */}
             <div className="bg-gray-100 border-b border-gray-200 px-4 py-3 flex items-center gap-2">
               <div className="flex gap-1.5">
@@ -104,8 +104,8 @@ export default function Hero() {
               </div>
             </div>
             {/* Dashboard preview */}
-            <div className="bg-gradient-to-br from-teal-50 to-sand-50 p-6 md:p-8 min-h-[320px]">
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+            <div className="bg-gradient-to-br from-teal-50 to-sand-50 p-4 md:p-8">
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 mb-4 md:mb-6">
                 {[
                   { label: "Today's Appointments", value: "8", icon: "📅", color: "teal" },
                   { label: "Revenue Today", value: "$640", icon: "💰", color: "green" },
@@ -114,13 +114,13 @@ export default function Hero() {
                 ].map((card) => (
                   <div
                     key={card.label}
-                    className="bg-white rounded-xl p-4 shadow-sm border border-gray-100"
+                    className="bg-white rounded-xl p-3 md:p-4 shadow-sm border border-gray-100"
                   >
-                    <div className="text-2xl mb-1">{card.icon}</div>
-                    <div className="font-display font-bold text-xl text-gray-900">
+                    <div className="text-xl md:text-2xl mb-1">{card.icon}</div>
+                    <div className="font-display font-bold text-lg md:text-xl text-gray-900">
                       {card.value}
                     </div>
-                    <div className="text-xs text-gray-500 mt-0.5">{card.label}</div>
+                    <div className="text-[10px] md:text-xs text-gray-500 mt-0.5">{card.label}</div>
                   </div>
                 ))}
               </div>
@@ -141,7 +141,7 @@ export default function Hero() {
                     key={apt.time}
                     className="px-4 py-3 border-b border-gray-50 flex items-center gap-4 last:border-0"
                   >
-                    <div className="text-xs font-mono text-gray-500 w-20 shrink-0">
+                    <div className="text-xs font-mono text-gray-500 w-16 md:w-20 shrink-0">
                       {apt.time}
                     </div>
                     <div className="flex-1 min-w-0">
@@ -171,8 +171,8 @@ export default function Hero() {
               </div>
             </div>
           </div>
-          {/* Floating AI badge */}
-          <div className="absolute -top-4 -right-4 bg-white rounded-xl shadow-lg border border-teal-100 px-4 py-3 flex items-center gap-2 animate-float" style={{ animationDelay: "1s" }}>
+          {/* Floating AI badge - hidden on mobile/tablet small */}
+          <div className="absolute -top-4 -right-4 bg-white rounded-xl shadow-lg border border-teal-100 px-4 py-3 flex items-center gap-2 animate-float hidden lg:flex" style={{ animationDelay: "1s" }}>
             <div className="w-8 h-8 bg-teal-500 rounded-lg flex items-center justify-center text-white text-sm">
               🧠
             </div>
@@ -181,8 +181,8 @@ export default function Hero() {
               <div className="text-xs text-gray-500">Photo → breed → notes</div>
             </div>
           </div>
-          {/* Floating rebooking badge */}
-          <div className="absolute -bottom-4 -left-4 bg-white rounded-xl shadow-lg border border-coral-100 px-4 py-3 flex items-center gap-2 animate-float" style={{ animationDelay: "2s" }}>
+          {/* Floating rebooking badge - hidden on mobile/tablet small */}
+          <div className="absolute -bottom-4 -left-4 bg-white rounded-xl shadow-lg border border-coral-100 px-4 py-3 flex items-center gap-2 animate-float hidden lg:flex" style={{ animationDelay: "2s" }}>
             <div className="w-8 h-8 bg-coral-400 rounded-lg flex items-center justify-center text-white text-sm">
               🔄
             </div>

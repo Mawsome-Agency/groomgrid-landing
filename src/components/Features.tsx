@@ -64,29 +64,29 @@ const badgeStyles: Record<string, string> = {
 
 export default function Features() {
   return (
-    <section className="py-24 bg-gradient-to-b from-sand-50/40 to-white" id="features">
+    <section className="py-16 md:py-24 bg-gradient-to-b from-sand-50/40 to-white" id="features">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section header */}
-        <div className="text-center mb-16">
+        <div className="text-center mb-10 md:mb-16">
           <div className="inline-block px-4 py-1.5 rounded-full bg-teal-50 border border-teal-200 text-teal-700 text-sm font-medium mb-4">
             Everything you need
           </div>
-          <h2 className="font-display text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">
+          <h2 className="font-display text-3xl md:text-4xl lg:text-5xl font-extrabold text-gray-900 mb-4">
             Six features.{" "}
             <span className="text-gradient">One platform.</span>
           </h2>
-          <p className="text-xl text-gray-500 max-w-2xl mx-auto">
+          <p className="text-lg md:text-xl text-gray-500 max-w-2xl mx-auto">
             Built by groomers, for groomers. Every feature solves a real
             problem — no bloat, no complexity.
           </p>
         </div>
 
         {/* Feature grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
           {features.map((feature) => (
             <div
               key={feature.title}
-              className="group relative bg-white rounded-2xl border border-gray-200 p-6 card-hover shadow-soft overflow-hidden"
+              className="group relative bg-white rounded-2xl border border-gray-200 p-5 md:p-6 card-hover shadow-soft overflow-hidden"
             >
               {/* Hover glow */}
               <div className="absolute inset-0 bg-gradient-to-br from-teal-50/0 via-transparent to-coral-50/0 group-hover:from-teal-50/60 group-hover:to-coral-50/40 transition-all duration-500 rounded-2xl" />
@@ -94,7 +94,7 @@ export default function Features() {
               <div className="relative">
                 {/* Icon + badge */}
                 <div className="flex items-start justify-between mb-4">
-                  <div className="w-12 h-12 bg-gray-50 rounded-xl flex items-center justify-center text-2xl group-hover:scale-110 transition-transform duration-200">
+                  <div className="w-11 h-11 md:w-12 md:h-12 bg-gray-50 rounded-xl flex items-center justify-center text-xl md:text-2xl group-hover:scale-110 transition-transform duration-200">
                     {feature.icon}
                   </div>
                   <span
@@ -105,7 +105,7 @@ export default function Features() {
                 </div>
 
                 {/* Title + description */}
-                <h3 className="font-display text-lg font-bold text-gray-900 mb-2">
+                <h3 className="font-display text-base md:text-lg font-bold text-gray-900 mb-2">
                   {feature.title}
                 </h3>
                 <p className="text-sm text-gray-600 leading-relaxed mb-4">
@@ -142,13 +142,13 @@ export default function Features() {
         </div>
 
         {/* Bottom CTA */}
-        <div className="mt-16 text-center">
+        <div className="mt-10 md:mt-16 text-center">
           <p className="text-gray-500 mb-6">
             Plus: automated reminders, team management, analytics, and more.
           </p>
           <a
             href="#waitlist"
-            className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-teal-700 text-white font-semibold text-lg hover:bg-teal-800 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
+            className="inline-flex items-center gap-2 px-7 py-3.5 md:px-8 md:py-4 rounded-xl bg-teal-700 text-white font-semibold text-base md:text-lg hover:bg-teal-800 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
           >
             Get early access — it&apos;s free
             <svg

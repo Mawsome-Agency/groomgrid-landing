@@ -31,38 +31,38 @@ const pains = [
 
 export default function PainPoints() {
   return (
-    <section className="py-24 bg-white" id="pain-points">
+    <section className="py-16 md:py-24 bg-white" id="pain-points">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section header */}
-        <div className="text-center mb-16">
+        <div className="text-center mb-10 md:mb-16">
           <div className="inline-block px-4 py-1.5 rounded-full bg-coral-50 border border-coral-200 text-coral-700 text-sm font-medium mb-4">
             The Old Way vs. GroomGrid
           </div>
-          <h2 className="font-display text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">
+          <h2 className="font-display text-3xl md:text-4xl lg:text-5xl font-extrabold text-gray-900 mb-4">
             You love dogs.{" "}
             <span className="text-gradient">You didn&apos;t sign up for spreadsheets.</span>
           </h2>
-          <p className="text-xl text-gray-500 max-w-2xl mx-auto">
+          <p className="text-lg md:text-xl text-gray-500 max-w-2xl mx-auto">
             Running a grooming business is exhausting when the tools fight you.
             GroomGrid fixes the friction, one appointment at a time.
           </p>
         </div>
 
-        {/* Pain → Gain grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Pain -> Gain grid */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
           {pains.map((item) => (
             <div
               key={item.before}
-              className="group relative bg-gradient-to-br from-gray-50 to-white rounded-2xl border border-gray-200 p-6 card-hover overflow-hidden"
+              className="group relative bg-gradient-to-br from-gray-50 to-white rounded-2xl border border-gray-200 p-5 md:p-6 card-hover overflow-hidden"
             >
               {/* Background accent */}
               <div className="absolute inset-0 bg-gradient-to-br from-teal-50/0 to-teal-50/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
 
               <div className="relative">
-                <div className="text-3xl mb-4">{item.emoji}</div>
+                <div className="text-2xl md:text-3xl mb-3 md:mb-4">{item.emoji}</div>
 
                 {/* Before/after */}
-                <div className="flex flex-col gap-2 mb-4">
+                <div className="flex flex-col gap-2 mb-3 md:mb-4">
                   <div className="flex items-center gap-2">
                     <span className="text-xs font-bold text-red-500 uppercase tracking-wide">
                       Before
@@ -71,13 +71,13 @@ export default function PainPoints() {
                   </div>
                   <p className="text-gray-500 line-through text-sm">{item.before}</p>
 
-                  <div className="flex items-center gap-2 mt-2">
+                  <div className="flex items-center gap-2 mt-1 md:mt-2">
                     <span className="text-xs font-bold text-teal-600 uppercase tracking-wide">
                       GroomGrid
                     </span>
                     <div className="flex-1 h-px bg-teal-100" />
                   </div>
-                  <p className="font-display font-bold text-lg text-gray-900">
+                  <p className="font-display font-bold text-base md:text-lg text-gray-900">
                     {item.after}
                   </p>
                 </div>
@@ -89,9 +89,9 @@ export default function PainPoints() {
         </div>
 
         {/* Testimonial */}
-        <div className="mt-16 bg-gradient-to-br from-teal-600 to-teal-700 rounded-3xl p-8 md:p-12 text-white text-center">
-          <div className="text-4xl mb-4">🐾</div>
-          <blockquote className="font-display text-2xl md:text-3xl font-bold mb-6 max-w-3xl mx-auto leading-snug">
+        <div className="mt-10 md:mt-16 bg-gradient-to-br from-teal-600 to-teal-700 rounded-2xl md:rounded-3xl p-6 md:p-12 text-white text-center">
+          <div className="text-3xl md:text-4xl mb-4">🐾</div>
+          <blockquote className="font-display text-xl md:text-2xl lg:text-3xl font-bold mb-4 md:mb-6 max-w-3xl mx-auto leading-snug">
             &ldquo;I spent 2 hours every Sunday just organizing my schedule.
             Now my business runs while I&apos;m elbow-deep in a Golden Retriever.&rdquo;
           </blockquote>

@@ -71,37 +71,37 @@ const plans = [
 
 export default function Pricing() {
   return (
-    <section className="py-24 bg-white" id="pricing">
+    <section className="py-16 md:py-24 bg-white" id="pricing">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section header */}
-        <div className="text-center mb-16">
+        <div className="text-center mb-10 md:mb-16">
           <div className="inline-block px-4 py-1.5 rounded-full bg-teal-50 border border-teal-200 text-teal-700 text-sm font-medium mb-4">
             Simple pricing
           </div>
-          <h2 className="font-display text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">
+          <h2 className="font-display text-3xl md:text-4xl lg:text-5xl font-extrabold text-gray-900 mb-4">
             Plans that grow{" "}
             <span className="text-gradient">with your business</span>
           </h2>
-          <p className="text-xl text-gray-500 max-w-2xl mx-auto">
+          <p className="text-lg md:text-xl text-gray-500 max-w-2xl mx-auto">
             14-day free trial on all plans. No credit card required.
             Cancel anytime.
           </p>
         </div>
 
         {/* Plans */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-start">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 items-start max-w-sm md:max-w-none mx-auto">
           {plans.map((plan) => (
             <div
               key={plan.name}
-              className={`relative rounded-2xl border-2 p-8 card-hover ${
+              className={`relative rounded-2xl border-2 p-6 md:p-8 card-hover ${
                 plan.color === "teal"
-                  ? "border-teal-500 bg-gradient-to-b from-teal-50 to-white shadow-xl scale-105"
+                  ? "border-teal-500 bg-gradient-to-b from-teal-50 to-white shadow-xl md:scale-105"
                   : "border-gray-200 bg-white shadow-soft"
               }`}
             >
               {/* Popular badge */}
               {plan.badge && (
-                <div className="absolute -top-4 left-1/2 -translate-x-1/2 px-4 py-1.5 bg-teal-700 text-white text-xs font-bold rounded-full shadow-lg">
+                <div className="absolute -top-4 left-1/2 -translate-x-1/2 px-4 py-1.5 bg-teal-700 text-white text-xs font-bold rounded-full shadow-lg whitespace-nowrap">
                   {plan.badge}
                 </div>
               )}
@@ -113,7 +113,7 @@ export default function Pricing() {
                 </h3>
                 <p className="text-sm text-gray-500 mb-4">{plan.description}</p>
                 <div className="flex items-baseline gap-1">
-                  <span className="font-display text-5xl font-extrabold text-gray-900">
+                  <span className="font-display text-4xl md:text-5xl font-extrabold text-gray-900">
                     ${plan.price}
                   </span>
                   <span className="text-gray-500 text-sm">/month</span>
@@ -123,7 +123,7 @@ export default function Pricing() {
               {/* CTA */}
               <a
                 href="#waitlist"
-                className={`block w-full text-center py-3 rounded-xl font-semibold text-sm mb-8 transition-all ${
+                className={`block w-full text-center py-3 rounded-xl font-semibold text-sm mb-6 md:mb-8 transition-all ${
                   plan.color === "teal"
                     ? "bg-teal-700 text-white hover:bg-teal-800 shadow-lg hover:shadow-xl"
                     : "bg-gray-900 text-white hover:bg-gray-800"
@@ -133,7 +133,7 @@ export default function Pricing() {
               </a>
 
               {/* Features */}
-              <ul className="space-y-3">
+              <ul className="space-y-2.5 md:space-y-3">
                 {plan.features.map((f) => (
                   <li key={f} className="flex items-center gap-2.5 text-sm text-gray-700">
                     <svg
@@ -176,8 +176,8 @@ export default function Pricing() {
         </div>
 
         {/* FAQ row */}
-        <div className="mt-16 bg-gray-50 rounded-2xl p-8">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="mt-10 md:mt-16 bg-gray-50 rounded-2xl p-6 md:p-8">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
             {[
               {
                 q: "Can I switch plans?",

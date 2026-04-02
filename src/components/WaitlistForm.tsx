@@ -47,25 +47,25 @@ export default function WaitlistForm() {
 
   if (status === "success") {
     return (
-      <section className="py-24 bg-gradient-to-b from-teal-600 to-teal-700" id="waitlist">
+      <section className="py-16 md:py-24 bg-gradient-to-b from-teal-600 to-teal-700" id="waitlist">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 text-center">
-          <div className="bg-white/10 backdrop-blur-sm rounded-3xl p-10 border border-white/20">
-            <div className="text-6xl mb-4">🎉</div>
-            <h2 className="font-display text-3xl font-extrabold text-white mb-3">
+          <div className="bg-white/10 backdrop-blur-sm rounded-2xl md:rounded-3xl p-8 md:p-10 border border-white/20">
+            <div className="text-5xl md:text-6xl mb-4">🎉</div>
+            <h2 className="font-display text-2xl md:text-3xl font-extrabold text-white mb-3">
               You&apos;re on the list!
             </h2>
-            <p className="text-teal-100 text-lg mb-6">
+            <p className="text-teal-100 text-base md:text-lg mb-6">
               We&apos;ll email you when your spot is ready. We&apos;re launching soon —
               expect early access within the next few weeks.
             </p>
-            <div className="flex items-center justify-center gap-4 text-white/80 text-sm">
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-4 text-white/80 text-sm">
               <div className="flex items-center gap-1.5">
                 <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 Early bird pricing locked in
               </div>
-              <div className="w-1 h-1 rounded-full bg-white/40" />
+              <div className="hidden sm:block w-1 h-1 rounded-full bg-white/40" />
               <div className="flex items-center gap-1.5">
                 <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
@@ -80,25 +80,25 @@ export default function WaitlistForm() {
   }
 
   return (
-    <section className="py-24 bg-gradient-to-b from-teal-600 to-teal-700" id="waitlist">
+    <section className="py-16 md:py-24 bg-gradient-to-b from-teal-600 to-teal-700" id="waitlist">
       <div className="max-w-2xl mx-auto px-4 sm:px-6">
         {/* Header */}
-        <div className="text-center mb-10">
+        <div className="text-center mb-8 md:mb-10">
           <div className="inline-block px-4 py-1.5 rounded-full bg-white/20 text-white text-sm font-medium mb-4">
             🐾 Limited early access spots
           </div>
-          <h2 className="font-display text-4xl md:text-5xl font-extrabold text-white mb-4">
+          <h2 className="font-display text-3xl md:text-4xl lg:text-5xl font-extrabold text-white mb-4">
             Join the waitlist
           </h2>
-          <p className="text-teal-100 text-xl">
+          <p className="text-teal-100 text-base md:text-xl">
             Early access members get 40% off launch pricing — forever.
             Plus first dibs on new features.
           </p>
         </div>
 
         {/* Form card */}
-        <div className="bg-white rounded-2xl p-8 shadow-2xl">
-          <form onSubmit={handleSubmit} className="space-y-5">
+        <div className="bg-white rounded-2xl p-6 md:p-8 shadow-2xl">
+          <form onSubmit={handleSubmit} className="space-y-4 md:space-y-5">
             {/* Email */}
             <div>
               <label
@@ -123,7 +123,7 @@ export default function WaitlistForm() {
               <p id="business-type-label" className="block text-sm font-semibold text-gray-700 mb-1.5">
                 What describes you best?
               </p>
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3" role="group" aria-labelledby="business-type-label">
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-3" role="group" aria-labelledby="business-type-label">
                 {businessTypes.map((type) => (
                   <button
                     key={type.value}
@@ -156,7 +156,7 @@ export default function WaitlistForm() {
             <button
               type="submit"
               disabled={status === "loading"}
-              className="w-full py-4 rounded-xl bg-teal-700 text-white font-bold text-lg hover:bg-teal-800 active:bg-teal-900 transition-all shadow-lg hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed"
+              className="w-full py-3.5 md:py-4 rounded-xl bg-teal-700 text-white font-bold text-base md:text-lg hover:bg-teal-800 active:bg-teal-900 transition-all shadow-lg hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed"
             >
               {status === "loading" ? (
                 <span className="flex items-center justify-center gap-2">
@@ -172,13 +172,13 @@ export default function WaitlistForm() {
             </button>
 
             {/* Trust signals */}
-            <div className="flex items-center justify-center gap-6 pt-2">
+            <div className="flex flex-wrap items-center justify-center gap-4 md:gap-6 pt-2">
               {[
                 { icon: "🔒", text: "No spam" },
                 { icon: "✓", text: "14-day free trial" },
                 { icon: "✕", text: "No credit card" },
               ].map((s) => (
-                <div key={s.text} className="flex items-center gap-1.5 text-xs text-white/90">
+                <div key={s.text} className="flex items-center gap-1.5 text-xs text-gray-500">
                   <span>{s.icon}</span>
                   <span>{s.text}</span>
                 </div>
@@ -188,7 +188,7 @@ export default function WaitlistForm() {
         </div>
 
         {/* Social proof below form */}
-        <div className="mt-8 text-center">
+        <div className="mt-6 md:mt-8 text-center">
           <div className="flex items-center justify-center gap-3 text-white/80 text-sm">
             <div className="flex items-center -space-x-2">
               {["🐩", "🦮", "🐕", "🐾"].map((emoji, i) => (
