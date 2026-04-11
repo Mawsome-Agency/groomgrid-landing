@@ -205,24 +205,35 @@ export default function BlogPost({ params }: Props) {
         </article>
 
         <footer className="mt-16 pt-8 border-t border-gray-200">
-          <div className="bg-teal-50 rounded-xl p-6 text-center border border-teal-100">
-            <h2 className="text-lg font-semibold text-gray-900 mb-2">
+          <div className="bg-gradient-to-br from-teal-50 to-emerald-50 rounded-2xl p-8 text-center border border-teal-200 shadow-sm">
+            <div className="inline-flex items-center justify-center w-12 h-12 bg-teal-100 rounded-full mb-4">
+              <svg className="w-6 h-6 text-teal-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+              </svg>
+            </div>
+            <h2 className="text-xl font-bold text-gray-900 mb-3">
               Run a smarter grooming business with GroomGrid
             </h2>
-            <p className="text-gray-600 text-sm mb-4">
+            <p className="text-gray-600 mb-6 max-w-md mx-auto">
               AI-powered scheduling, breed detection, automated reminders, and
               payment processing — built for professional groomers.
             </p>
             <Link
               href="/#waitlist"
-              className="inline-block bg-teal-600 text-white px-6 py-2.5 rounded-lg font-semibold text-sm hover:bg-teal-700 transition-colors"
+              className="inline-flex items-center gap-2 bg-teal-600 text-white px-8 py-3 rounded-xl font-semibold text-base hover:bg-teal-700 transition-all hover:shadow-lg hover:scale-105"
             >
-              Join the Waitlist →
+              Join the Waitlist
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
             </Link>
           </div>
           <div className="mt-6 text-center">
-            <Link href="/blog" className="text-teal-600 text-sm hover:underline">
-              ← Back to all articles
+            <Link href="/blog" className="text-teal-600 text-sm hover:underline inline-flex items-center gap-1">
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+              </svg>
+              Back to all articles
             </Link>
           </div>
         </footer>

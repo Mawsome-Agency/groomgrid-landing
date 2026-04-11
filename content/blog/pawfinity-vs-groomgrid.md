@@ -277,9 +277,9 @@ If you run a grooming-plus-boarding operation and need one platform to manage it
 
 ## Further Reading
 
-- [Best Pet Grooming Software in 2026: Compared & Ranked](/blog/pet-grooming-softwarereviews/best-pet-grooming-software/) <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
-- [MoeGo vs GroomGrid: Which Pet Grooming Software Wins?](/blog/pet-grooming-softwarereviews/moego-vs-groomgrid/)
-- [DaySmart Pet vs GroomGrid: Enterprise vs Agile](/blog/pet-grooming-softwarereviews/daysmart-pet-vs-groomgrid/)
+- [Best Pet Grooming Software in 2026: Compared & Ranked](/blog/best-pet-grooming-software) <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
+- [MoeGo vs GroomGrid: Which Pet Grooming Software Wins?](/blog/moego-vs-groomgrid)
+- [DaySmart Pet vs GroomGrid: Enterprise vs Agile](/blog/daysmart-pet-vs-groomgrid)
 - [Grooming Appointment Scheduling Software — Buyer's Guide](/blog/pet-grooming-software)
 
 ---

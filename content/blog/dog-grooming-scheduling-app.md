@@ -76,7 +76,7 @@ This is a question mobile groomers ask constantly. The answer depends on how you
 
 **The thing to avoid:** browser-only platforms with no mobile app. They technically work on a phone, but the experience is compromised — small buttons, slow load times, no push notifications. If a software company's "mobile" solution is just their website on your phone, that's not a mobile app.
 
-The distinction between mobile apps and desktop software is explored in depth in [Dog Grooming App vs. Desktop Software: Which Is Right for Your Business?](/blog/pet-grooming-softwarereviews/free-pet-grooming-software/).
+The distinction between mobile apps and desktop software is explored in depth in [Dog Grooming App vs. Desktop Software: Which Is Right for Your Business?](/blog/free-pet-grooming-software).
 
 ---
 
@@ -136,7 +136,7 @@ Single-user simplicity matters too. You don't need a five-groomer dashboard if i
 - You need automated reminders (free plans almost universally lock this behind a paywall)
 - You're losing clients to competitors because your booking experience feels unprofessional
 
-For a full breakdown of what free grooming software actually includes versus what it costs to use in practice, see [Free Pet Grooming Software: What's Actually Free vs. What's a Trial](/blog/pet-grooming-softwarereviews/free-pet-grooming-software/).
+For a full breakdown of what free grooming software actually includes versus what it costs to use in practice, see [Free Pet Grooming Software: What's Actually Free vs. What's a Trial](/blog/free-pet-grooming-software).
 
 ---
 

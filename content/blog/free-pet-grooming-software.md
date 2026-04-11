@@ -118,15 +118,15 @@ MoeGo is the market leader in grooming software. They offer a free trial. After 
 
 MoeGo's trial period is worth using for evaluation — it's a mature, fully-featured platform. But it's not a free solution.
 
-[Read our full MoeGo vs. GroomGrid comparison →](/blog/pet-grooming-softwarereviews/moego-vs-groomgrid/)
+[Read our full MoeGo vs. GroomGrid comparison →](/blog/moego-vs-groomgrid)
 
 ### Pawfinity (Trial, Not Free)
 Pawfinity offers a trial period. No permanent free tier. Budget-friendly paid plans but not free.
 
-[Read our Pawfinity vs. GroomGrid comparison →](/blog/pet-grooming-softwarereviews/pawfinity-vs-groomgrid/)
+[Read our Pawfinity vs. GroomGrid comparison →](/blog/pawfinity-vs-groomgrid)
 
 ### DaySmart Pet (Trial, Not Free)
-DaySmart Pet has no free tier and runs toward the more expensive end of the market. Enterprise-focused. [DaySmart vs. GroomGrid comparison →](/blog/pet-grooming-softwarereviews/daysmart-pet-vs-groomgrid/)
+DaySmart Pet has no free tier and runs toward the more expensive end of the market. Enterprise-focused. [DaySmart vs. GroomGrid comparison →](/blog/daysmart-pet-vs-groomgrid)
 
 ### GroomGrid (Early Access / Waitlist)
 GroomGrid is currently in early access. Pricing tiers (Solo at $29, Salon at $79, Enterprise at $149) are planned. [Join the waitlist](/waitlist/) to get early access pricing.
@@ -199,7 +199,7 @@ Even if you're using free software while you get started, these features are non
 
 **Integrated payments.** Accepting cards without a separate terminal or app reduces friction and increases collections.
 
-For a complete breakdown of which platforms offer what, see our [best pet grooming software comparison →](/blog/pet-grooming-softwarereviews/best-pet-grooming-software/) <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
+For a complete breakdown of which platforms offer what, see our [best pet grooming software comparison →](/blog/best-pet-grooming-software) <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
 
 ---
 
@@ -221,7 +221,7 @@ When you're ready to upgrade, [GroomGrid's waitlist](/waitlist/) is open. Our So
 
 ## Related Reading
 
-- [Best Pet Grooming Software in 2026: Compared & Ranked](/blog/pet-grooming-softwarereviews/best-pet-grooming-software/) <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
+- [Best Pet Grooming Software in 2026: Compared & Ranked](/blog/best-pet-grooming-software) <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
 - [Pet Grooming Software: The Complete Guide](/blog/pet-grooming-software)
 - [Dog Grooming Appointment Software: Features Every Groomer Needs](/blog/dog-grooming-scheduling-app)
 

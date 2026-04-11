@@ -16,6 +16,26 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: "/signup",
+        destination: "/#waitlist",
+        permanent: true,
+      },
+      {
+        source: "/signup/",
+        destination: "/#waitlist",
+        permanent: true,
+      },
+      {
+        source: "/plans",
+        destination: "/#waitlist",
+        permanent: true,
+      },
+      {
+        source: "/plans/",
+        destination: "/#waitlist",
+        permanent: true,
+      },
+      {
         source: "/:path*",
         has: [
           {

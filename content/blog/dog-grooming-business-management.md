@@ -272,7 +272,7 @@ The right software depends on your operation type:
 
 **Multi-location or franchise:** Enterprise-level features — centralized reporting across locations, location-specific scheduling, franchise-level analytics. Look for: DaySmart Pet (built for enterprise scale), GroomGrid Enterprise.
 
-For an in-depth breakdown of your options, see [Best Pet Grooming Software in 2026](/blog/pet-grooming-softwarereviews/best-pet-grooming-software/). <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
+For an in-depth breakdown of your options, see [Best Pet Grooming Software in 2026](/blog/best-pet-grooming-software). <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
 
 ---
 

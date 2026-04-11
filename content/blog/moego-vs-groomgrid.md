@@ -289,9 +289,9 @@ The question isn't "which is better" in the abstract. It's which platform solves
 
 ## See Also
 
-- [Best Pet Grooming Software in 2026: Compared & Ranked](/blog/pet-grooming-softwarereviews/best-pet-grooming-software/) <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
-- [DaySmart Pet vs GroomGrid: Enterprise vs Agile](/blog/pet-grooming-softwarereviews/daysmart-pet-vs-groomgrid/)
-- [Pawfinity vs GroomGrid: Independent Groomer Software Showdown](/blog/pet-grooming-softwarereviews/pawfinity-vs-groomgrid/)
+- [Best Pet Grooming Software in 2026: Compared & Ranked](/blog/best-pet-grooming-software) <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
+- [DaySmart Pet vs GroomGrid: Enterprise vs Agile](/blog/daysmart-pet-vs-groomgrid)
+- [Pawfinity vs GroomGrid: Independent Groomer Software Showdown](/blog/pawfinity-vs-groomgrid)
 - [Grooming Appointment Scheduling Software — Buyer's Guide](/blog/pet-grooming-software)
 
 ---
