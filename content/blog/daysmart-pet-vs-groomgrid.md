@@ -292,9 +292,9 @@ GroomGrid was built for the groomer who has outgrown a paper booking system or a
 
 ## Further Reading
 
-- [Best Pet Grooming Software in 2026: Compared & Ranked](/blog/pet-grooming-softwarereviews/best-pet-grooming-software/) <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
-- [MoeGo vs GroomGrid: Which Pet Grooming Software Wins?](/blog/pet-grooming-softwarereviews/moego-vs-groomgrid/)
-- [Pawfinity vs GroomGrid: Independent Groomer Software Showdown](/blog/pet-grooming-softwarereviews/pawfinity-vs-groomgrid/)
+- [Best Pet Grooming Software in 2026: Compared & Ranked](/blog/best-pet-grooming-software) <!-- [PLACEHOLDER — article not yet written: best-pet-grooming-software (C1-A1). Update link when published at /pet-grooming-software/reviews/best-pet-grooming-software/] -->
+- [MoeGo vs GroomGrid: Which Pet Grooming Software Wins?](/blog/moego-vs-groomgrid)
+- [Pawfinity vs GroomGrid: Independent Groomer Software Showdown](/blog/pawfinity-vs-groomgrid)
 - [Dog Grooming Business Management — Complete Operations Guide](/blog/dog-grooming-business-management)
 
 ---

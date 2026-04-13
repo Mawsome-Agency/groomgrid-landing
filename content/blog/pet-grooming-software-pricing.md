@@ -91,7 +91,7 @@ Here's the math: MoeGo Basic at $49/month annually equals $588/year. If MoeGo ch
 
 ---
 
-[CTA: GroomGrid starts at $29/month — Join the waitlist before launch pricing ends](https://getgroomgrid.com)
+> **[GroomGrid starts at $29/month — Join the waitlist before launch pricing ends](https://getgroomgrid.com/#waitlist)**
 
 ## How to Calculate What Grooming Software Is Worth to You
 
@@ -213,7 +213,7 @@ Annual billing typically saves **15–20%**. If you're committed to a platform f
 
 Use this decision tree to find your match:
 
-**Solo mobile groomer, <10 dogs/day:**
+**Solo mobile groomer, fewer than 10 dogs/day:**
 - Want AI features? → **GroomGrid Solo ($29/month)** — only AI option at this price
 - Just need basics? → **Groomsoft (~$20/month)** — simple scheduling, no AI
 
@@ -242,7 +242,7 @@ Pricing matters, but value matters more. The cheapest option isn't always the ri
 
 **The ROI reality:** Any grooming software that prevents 1–2 no-shows per month has paid for itself. Don't overthink the pricing difference — focus on whether the platform has the features to protect your revenue and grow your business.
 
-[CTA: Join the GroomGrid waitlist — lock in $29/month founding pricing](https://getgroomgrid.com)
+> **[Join the GroomGrid waitlist — lock in $29/month founding pricing](https://getgroomgrid.com/#waitlist)**
 
 ---
 

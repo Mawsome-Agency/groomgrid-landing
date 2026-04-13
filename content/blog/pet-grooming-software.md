@@ -216,7 +216,7 @@ AI features are still maturing in this space, but they're becoming a meaningful 
 
 The most common category. These tools handle scheduling, client management, payments, and reminders in a single dashboard. Best for groomers who want one tool, not five integrations. Examples include GroomGrid, MoeGo, and Pawfinity.
 
-[Compare the best pet grooming software options for 2026](/blog/pet-grooming-softwarereviews/best-pet-grooming-software/)
+[Compare the best pet grooming software options for 2026](/blog/best-pet-grooming-software)
 
 ### Scheduling-Only Apps
 
@@ -308,7 +308,7 @@ Software pricing varies dramatically. Watch for:
 - Fees for SMS reminders (some platforms charge per text)
 - Annual vs. monthly billing (annual usually discounts 15–20%)
 
-See our [pet grooming software pricing guide](/blog/pet-grooming-softwarereviews/pet-grooming-software-pricing/) for a full cost comparison.
+See our [pet grooming software pricing guide](/blog/pet-grooming-software-pricing) for a full cost comparison.
 
 ### Step 4: Read Reviews from Groomers
 
@@ -328,7 +328,7 @@ True free tiers exist but are typically limited to: 1 groomer, limited appointme
 
 As soon as you're taking 30+ appointments per month and building a repeat client base, the time saved by automated reminders and online booking pays for the software several times over.
 
-For a detailed breakdown, see our [free pet grooming software guide](/blog/pet-grooming-softwarereviews/free-pet-grooming-software/).
+For a detailed breakdown, see our [free pet grooming software guide](/blog/free-pet-grooming-software).
 
 ---
 
@@ -340,21 +340,21 @@ AI-powered platform built for mobile groomers and small salons. Unique breed det
 **Best for:** Mobile groomers and tech-forward salon owners who want AI features without enterprise complexity.
 
 ### MoeGo
-The current market leader. Well-reviewed for scheduling and client management. Strong mobile app. No AI features. [MoeGo vs. GroomGrid comparison →](/blog/pet-grooming-softwarereviews/moego-vs-groomgrid/)
+The current market leader. Well-reviewed for scheduling and client management. Strong mobile app. No AI features. [MoeGo vs. GroomGrid comparison →](/blog/moego-vs-groomgrid)
 
 **Best for:** Established grooming operations that want a mature, stable platform.
 
 ### DaySmart Pet
-Enterprise-grade software with a long track record. Feature-rich but expensive and complex for smaller operations. [DaySmart Pet vs. GroomGrid comparison →](/blog/pet-grooming-softwarereviews/daysmart-pet-vs-groomgrid/)
+Enterprise-grade software with a long track record. Feature-rich but expensive and complex for smaller operations. [DaySmart Pet vs. GroomGrid comparison →](/blog/daysmart-pet-vs-groomgrid)
 
 **Best for:** Large salons and franchise operators with complex staff and reporting needs.
 
 ### Pawfinity
-Budget-friendly option for independent groomers. Limited features but simpler to use. [Pawfinity vs. GroomGrid comparison →](/blog/pet-grooming-softwarereviews/pawfinity-vs-groomgrid/)
+Budget-friendly option for independent groomers. Limited features but simpler to use. [Pawfinity vs. GroomGrid comparison →](/blog/pawfinity-vs-groomgrid)
 
 **Best for:** Solo groomers who want basic scheduling without monthly complexity.
 
-[See the full comparison of all major pet grooming software platforms →](/blog/pet-grooming-softwarereviews/best-pet-grooming-software/)
+[See the full comparison of all major pet grooming software platforms →](/blog/best-pet-grooming-software)
 
 ---
 
@@ -409,9 +409,9 @@ Yes — for any groomer doing 30+ appointments per month, the math almost always
 
 ## Related Reading
 
-- [Best Pet Grooming Software in 2026: Compared & Ranked](/blog/pet-grooming-softwarereviews/best-pet-grooming-software/)
+- [Best Pet Grooming Software in 2026: Compared & Ranked](/blog/best-pet-grooming-software)
 - [AI Pet Grooming Software: How It Works and What It Changes](/blog/ai-pet-grooming-software)
-- [Free Pet Grooming Software: What's Actually Free vs. What's a Trial](/blog/pet-grooming-softwarereviews/free-pet-grooming-software/)
+- [Free Pet Grooming Software: What's Actually Free vs. What's a Trial](/blog/free-pet-grooming-software)
 - [Grooming Appointment Scheduling Software: Buyer's Guide](/blog/pet-grooming-software)
 - [Dog Grooming Business Management: Complete Operations Guide](/blog/dog-grooming-business-management)
 - [Mobile Dog Grooming Scheduling Software](/blog/pet-grooming-software)
